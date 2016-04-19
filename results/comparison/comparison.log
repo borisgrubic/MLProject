@@ -1,0 +1,1904 @@
+2016-04-17 19:39:55,841 - DEBUG - Running test 0
+2016-04-17 19:39:55,979 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:55,994 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:55,999 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:39:55,999 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,009 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,013 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:39:56,138 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:56,147 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:56,152 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:39:56,153 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,161 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,164 - DEBUG - Finished scoring 40 data points with score 0.65
+2016-04-17 19:39:56,282 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:56,291 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:56,299 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:39:56,302 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,311 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,317 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:39:56,318 - DEBUG - Running test 1
+2016-04-17 19:39:56,440 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:56,447 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:56,452 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:39:56,452 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,458 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,462 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:39:56,585 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:56,597 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:56,607 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:39:56,610 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,619 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,626 - DEBUG - Finished scoring 40 data points with score 0.725
+2016-04-17 19:39:56,789 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:56,800 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:56,821 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:39:56,821 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,828 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,834 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:39:56,834 - DEBUG - Running test 2
+2016-04-17 19:39:56,956 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:56,963 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:56,968 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:39:56,968 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,976 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:56,979 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:39:57,100 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:57,108 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:57,113 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:39:57,113 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:57,122 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:57,126 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:39:57,250 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:57,263 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:57,269 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:39:57,270 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:57,281 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:57,284 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:39:57,284 - DEBUG - Running test 3
+2016-04-17 19:39:57,416 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:57,424 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:57,428 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:39:57,428 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:57,437 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:57,442 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:39:57,570 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:57,577 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:57,585 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:39:57,588 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:57,598 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:57,607 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:39:57,774 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:57,803 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:57,812 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:39:57,815 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:57,840 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:57,847 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:39:57,849 - DEBUG - Running test 4
+2016-04-17 19:39:57,966 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:57,973 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:57,978 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:39:57,978 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:57,988 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:57,991 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:39:58,105 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:58,115 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:58,120 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:39:58,120 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:58,127 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:58,132 - DEBUG - Finished scoring 40 data points with score 0.725
+2016-04-17 19:39:58,261 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:58,269 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:58,276 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:39:58,277 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:58,283 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:58,287 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:39:58,287 - DEBUG - Running test 5
+2016-04-17 19:39:58,404 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:58,412 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:58,416 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:39:58,416 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:58,423 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:58,426 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:39:58,543 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:58,553 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:58,563 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:39:58,566 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:58,575 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:58,581 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:39:58,710 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:58,742 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:58,753 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:39:58,758 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:58,769 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:58,778 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:39:58,781 - DEBUG - Running test 6
+2016-04-17 19:39:58,910 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:58,925 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:58,934 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:39:58,937 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:58,948 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:58,955 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:39:59,084 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:59,093 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:59,102 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:39:59,105 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:59,116 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:59,122 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:39:59,244 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:59,252 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:59,257 - DEBUG - Finished scoring 40 data points with score 1.0
+2016-04-17 19:39:59,257 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:59,270 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:59,274 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:39:59,275 - DEBUG - Running test 7
+2016-04-17 19:39:59,408 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:59,423 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:59,433 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:39:59,437 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:59,447 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:59,451 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:39:59,575 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:59,589 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:59,597 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:39:59,597 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:59,604 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:59,608 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:39:59,741 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:59,749 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:59,754 - DEBUG - Finished scoring 40 data points with score 1.0
+2016-04-17 19:39:59,754 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:59,763 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:59,767 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:39:59,767 - DEBUG - Running test 8
+2016-04-17 19:39:59,888 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:59,901 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:39:59,908 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:39:59,909 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:59,922 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:39:59,933 - DEBUG - Finished scoring 40 data points with score 1.0
+2016-04-17 19:40:00,069 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:00,080 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:00,088 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:00,089 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:00,101 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:00,107 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:00,242 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:00,252 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:00,259 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:00,264 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:00,273 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:00,282 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:00,283 - DEBUG - Running test 9
+2016-04-17 19:40:00,400 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:00,407 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:00,411 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:00,412 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:00,419 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:00,422 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:00,544 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:00,555 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:00,561 - DEBUG - Finished scoring 40 data points with score 0.525
+2016-04-17 19:40:00,561 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:00,572 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:00,577 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:00,715 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:00,727 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:00,735 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:00,738 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:00,748 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:00,757 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:00,761 - DEBUG - Running test 10
+2016-04-17 19:40:00,902 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:00,912 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:00,921 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:00,921 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:00,939 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:00,950 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:01,074 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:01,083 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:01,089 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:01,089 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:01,096 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:01,102 - DEBUG - Finished scoring 40 data points with score 0.75
+2016-04-17 19:40:01,229 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:01,241 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:01,246 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:01,246 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:01,254 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:01,257 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:01,258 - DEBUG - Running test 11
+2016-04-17 19:40:01,387 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:01,398 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:01,405 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:01,405 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:01,417 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:01,421 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:01,564 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:01,574 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:01,579 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:01,584 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:01,595 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:01,602 - DEBUG - Finished scoring 40 data points with score 0.7
+2016-04-17 19:40:01,729 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:01,741 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:01,749 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:01,754 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:01,762 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:01,765 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:01,765 - DEBUG - Running test 12
+2016-04-17 19:40:01,960 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:01,974 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:01,979 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:01,980 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:01,995 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:02,002 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:02,125 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:02,137 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:02,142 - DEBUG - Finished scoring 40 data points with score 0.35
+2016-04-17 19:40:02,142 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:02,149 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:02,156 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:02,268 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:02,287 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:02,294 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:02,294 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:02,304 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:02,307 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:02,307 - DEBUG - Running test 13
+2016-04-17 19:40:02,436 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:02,443 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:02,448 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:02,448 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:02,455 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:02,458 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:02,573 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:02,581 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:02,587 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:02,587 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:02,594 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:02,598 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:02,711 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:02,718 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:02,722 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:02,722 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:02,729 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:02,731 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:02,731 - DEBUG - Running test 14
+2016-04-17 19:40:02,845 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:02,852 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:02,856 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:02,857 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:02,863 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:02,867 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:03,005 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:03,014 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:03,024 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:40:03,025 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:03,032 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:03,036 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:03,150 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:03,157 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:03,162 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:03,162 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:03,169 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:03,172 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:03,173 - DEBUG - Running test 15
+2016-04-17 19:40:03,292 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:03,299 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:03,305 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:03,305 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:03,312 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:03,315 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:03,459 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:03,475 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:03,482 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:40:03,482 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:03,496 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:03,500 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:03,648 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:03,658 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:03,663 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:03,666 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:03,677 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:03,684 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:03,685 - DEBUG - Running test 16
+2016-04-17 19:40:03,815 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:03,828 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:03,836 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:03,837 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:03,864 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:03,872 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:04,035 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:04,046 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:04,051 - DEBUG - Finished scoring 40 data points with score 0.375
+2016-04-17 19:40:04,051 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:04,061 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:04,066 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:04,188 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:04,200 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:04,207 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:04,210 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:04,219 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:04,224 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:04,227 - DEBUG - Running test 17
+2016-04-17 19:40:04,360 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:04,370 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:04,377 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:04,380 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:04,389 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:04,395 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:04,553 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:04,564 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:04,570 - DEBUG - Finished scoring 40 data points with score 0.375
+2016-04-17 19:40:04,570 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:04,580 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:04,583 - DEBUG - Finished scoring 40 data points with score 0.7
+2016-04-17 19:40:04,702 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:04,710 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:04,714 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:04,715 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:04,722 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:04,727 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:04,727 - DEBUG - Running test 18
+2016-04-17 19:40:04,862 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:04,869 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:04,874 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:04,875 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:04,883 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:04,887 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:05,026 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:05,038 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:05,049 - DEBUG - Finished scoring 40 data points with score 0.35
+2016-04-17 19:40:05,049 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:05,063 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:05,069 - DEBUG - Finished scoring 40 data points with score 0.65
+2016-04-17 19:40:05,198 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:05,206 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:05,211 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:05,211 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:05,221 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:05,229 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:05,229 - DEBUG - Running test 19
+2016-04-17 19:40:05,411 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:05,428 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:05,435 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:05,439 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:05,450 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:05,458 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:05,581 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:05,588 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:05,594 - DEBUG - Finished scoring 40 data points with score 0.55
+2016-04-17 19:40:05,597 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:05,605 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:05,615 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:05,747 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:05,770 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:05,788 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:05,791 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:05,801 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:05,825 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:05,831 - DEBUG - Running test 20
+2016-04-17 19:40:06,006 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:06,016 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:06,022 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:06,023 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:06,033 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:06,039 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:06,177 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:06,188 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:06,195 - DEBUG - Finished scoring 40 data points with score 0.375
+2016-04-17 19:40:06,196 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:06,203 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:06,209 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:06,332 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:06,342 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:06,348 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:06,349 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:06,356 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:06,369 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:06,372 - DEBUG - Running test 21
+2016-04-17 19:40:06,582 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:06,602 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:06,613 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:06,619 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:06,626 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:06,631 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:06,761 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:06,771 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:06,779 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:40:06,780 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:06,792 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:06,800 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:06,931 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:06,939 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:06,944 - DEBUG - Finished scoring 40 data points with score 1.0
+2016-04-17 19:40:06,945 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:06,955 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:06,958 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:06,959 - DEBUG - Running test 22
+2016-04-17 19:40:07,107 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:07,117 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:07,124 - DEBUG - Finished scoring 40 data points with score 0.75
+2016-04-17 19:40:07,124 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:07,137 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:07,141 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:07,274 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:07,285 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:07,293 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:40:07,294 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:07,308 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:07,312 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:07,449 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:07,459 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:07,466 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:07,466 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:07,472 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:07,475 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:07,479 - DEBUG - Running test 23
+2016-04-17 19:40:07,633 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:07,659 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:07,668 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:07,669 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:07,679 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:07,703 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:07,834 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:07,849 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:07,861 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:40:07,862 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:07,877 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:07,881 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:08,025 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:08,036 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:08,047 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:08,047 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:08,058 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:08,063 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:08,063 - DEBUG - Running test 24
+2016-04-17 19:40:08,188 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:08,197 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:08,206 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:08,207 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:08,222 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:08,226 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:08,411 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:08,430 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:08,438 - DEBUG - Finished scoring 40 data points with score 0.35
+2016-04-17 19:40:08,439 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:08,448 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:08,454 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:08,591 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:08,599 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:08,607 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:08,607 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:08,615 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:08,625 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:08,626 - DEBUG - Running test 25
+2016-04-17 19:40:08,777 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:08,786 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:08,793 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:08,793 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:08,800 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:08,807 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:08,966 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:08,978 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:08,992 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:40:08,994 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:09,004 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:09,007 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:09,133 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:09,145 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:09,155 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:09,156 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:09,167 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:09,172 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:09,172 - DEBUG - Running test 26
+2016-04-17 19:40:09,357 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:09,381 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:09,390 - DEBUG - Finished scoring 40 data points with score 0.75
+2016-04-17 19:40:09,391 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:09,410 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:09,413 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:09,551 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:09,570 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:09,579 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:09,583 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:09,593 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:09,599 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:09,720 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:09,740 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:09,753 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:09,757 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:09,768 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:09,785 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:09,790 - DEBUG - Running test 27
+2016-04-17 19:40:09,974 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:09,981 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:09,993 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:09,993 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:10,001 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:10,007 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:10,137 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:10,151 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:10,157 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:10,159 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:10,168 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:10,174 - DEBUG - Finished scoring 40 data points with score 0.725
+2016-04-17 19:40:10,305 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:10,313 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:10,319 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:10,319 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:10,331 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:10,337 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:10,337 - DEBUG - Running test 28
+2016-04-17 19:40:10,479 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:10,488 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:10,497 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:10,497 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:10,505 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:10,508 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:10,648 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:10,656 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:10,669 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:10,670 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:10,677 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:10,684 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:10,841 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:10,848 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:10,875 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:10,876 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:10,895 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:10,904 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:10,909 - DEBUG - Running test 29
+2016-04-17 19:40:11,060 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:11,070 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:11,080 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:11,083 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:11,100 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:11,105 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:11,256 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:11,269 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:11,285 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:11,286 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:11,294 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:11,298 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:11,447 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:11,455 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:11,476 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:11,478 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:11,490 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:11,495 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:11,495 - DEBUG - Running test 30
+2016-04-17 19:40:11,647 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:11,655 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:11,666 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:11,666 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:11,674 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:11,684 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:11,816 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:11,827 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:11,834 - DEBUG - Finished scoring 40 data points with score 0.5
+2016-04-17 19:40:11,834 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:11,842 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:11,852 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:11,983 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:12,001 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:12,009 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:12,012 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:12,021 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:12,032 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:12,035 - DEBUG - Running test 31
+2016-04-17 19:40:12,165 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:12,175 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:12,184 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:12,194 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:12,220 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:12,225 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:12,435 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:12,461 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:12,469 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:12,475 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:12,493 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:12,511 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:12,647 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:12,657 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:12,667 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:12,668 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:12,681 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:12,685 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:12,685 - DEBUG - Running test 32
+2016-04-17 19:40:12,820 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:12,827 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:12,833 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:12,833 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:12,840 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:12,843 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:12,995 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:13,006 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:13,013 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:40:13,013 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:13,020 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:13,026 - DEBUG - Finished scoring 40 data points with score 0.6
+2016-04-17 19:40:13,178 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:13,189 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:13,195 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:13,195 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:13,204 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:13,209 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:13,209 - DEBUG - Running test 33
+2016-04-17 19:40:13,345 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:13,354 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:13,360 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:13,361 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:13,374 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:13,380 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:13,545 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:13,568 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:13,574 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:40:13,574 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:13,587 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:13,593 - DEBUG - Finished scoring 40 data points with score 0.575
+2016-04-17 19:40:13,719 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:13,727 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:13,739 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:13,739 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:13,754 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:13,761 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:13,761 - DEBUG - Running test 34
+2016-04-17 19:40:13,893 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:13,909 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:13,916 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:13,920 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:13,934 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:13,947 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:14,087 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:14,096 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:14,106 - DEBUG - Finished scoring 40 data points with score 0.55
+2016-04-17 19:40:14,106 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:14,114 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:14,122 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:14,249 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:14,260 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:14,267 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:14,267 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:14,281 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:14,294 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:14,295 - DEBUG - Running test 35
+2016-04-17 19:40:14,424 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:14,432 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:14,439 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:14,440 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:14,447 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:14,452 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:14,596 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:14,609 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:14,615 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:40:14,615 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:14,625 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:14,629 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:14,761 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:14,769 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:14,775 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:14,775 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:14,782 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:14,787 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:14,788 - DEBUG - Running test 36
+2016-04-17 19:40:14,921 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:14,929 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:14,936 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:14,937 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:14,944 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:14,947 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:15,091 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:15,099 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:15,108 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:15,108 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:15,114 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:15,118 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:15,257 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:15,264 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:15,278 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:15,279 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:15,296 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:15,300 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:15,300 - DEBUG - Running test 37
+2016-04-17 19:40:15,435 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:15,445 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:15,452 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:15,452 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:15,479 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:15,485 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:15,611 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:15,619 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:15,627 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:15,628 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:15,635 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:15,641 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:15,761 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:15,770 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:15,779 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:15,779 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:15,790 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:15,794 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:15,795 - DEBUG - Running test 38
+2016-04-17 19:40:15,925 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:15,936 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:15,951 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:15,953 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:15,975 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:15,981 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:16,126 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:16,135 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:16,142 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:40:16,142 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:16,150 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:16,159 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:16,286 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:16,296 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:16,302 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:16,302 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:16,309 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:16,314 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:16,314 - DEBUG - Running test 39
+2016-04-17 19:40:16,445 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:16,459 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:16,468 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:16,468 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:16,478 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:16,483 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:16,622 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:16,632 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:16,639 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:40:16,639 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:16,649 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:16,657 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:16,810 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:16,827 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:16,835 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:16,836 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:16,851 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:16,861 - DEBUG - Finished scoring 40 data points with score 1.0
+2016-04-17 19:40:16,861 - DEBUG - Running test 40
+2016-04-17 19:40:16,981 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:16,991 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:16,998 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:16,999 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:17,007 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:17,015 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:17,154 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:17,163 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:17,171 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:17,171 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:17,187 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:17,197 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:17,325 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:17,333 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:17,340 - DEBUG - Finished scoring 40 data points with score 1.0
+2016-04-17 19:40:17,341 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:17,360 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:17,364 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:17,365 - DEBUG - Running test 41
+2016-04-17 19:40:17,504 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:17,512 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:17,519 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:17,519 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:17,528 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:17,535 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:17,661 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:17,671 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:17,678 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:17,678 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:17,688 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:17,696 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:17,821 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:17,829 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:17,837 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:17,837 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:17,851 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:17,859 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:17,862 - DEBUG - Running test 42
+2016-04-17 19:40:18,018 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:18,030 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:18,038 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:18,038 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:18,054 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:18,065 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:18,188 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:18,200 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:18,206 - DEBUG - Finished scoring 40 data points with score 0.35
+2016-04-17 19:40:18,206 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:18,227 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:18,236 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:18,368 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:18,376 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:18,384 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:18,385 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:18,393 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:18,405 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:18,405 - DEBUG - Running test 43
+2016-04-17 19:40:18,543 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:18,554 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:18,559 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:18,559 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:18,569 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:18,573 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:18,714 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:18,723 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:18,732 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:18,732 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:18,739 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:18,748 - DEBUG - Finished scoring 40 data points with score 0.575
+2016-04-17 19:40:18,885 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:18,893 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:18,902 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:18,902 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:18,909 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:18,912 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:18,913 - DEBUG - Running test 44
+2016-04-17 19:40:19,069 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:19,076 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:19,082 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:19,083 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:19,091 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:19,094 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:19,217 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:19,225 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:19,232 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:19,233 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:19,241 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:19,254 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:19,378 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:19,390 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:19,396 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:19,397 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:19,403 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:19,407 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:19,407 - DEBUG - Running test 45
+2016-04-17 19:40:19,572 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:19,580 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:19,588 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:19,589 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:19,595 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:19,599 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:19,731 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:19,744 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:19,751 - DEBUG - Finished scoring 40 data points with score 0.575
+2016-04-17 19:40:19,751 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:19,762 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:19,768 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:19,906 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:19,915 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:19,923 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:19,923 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:19,931 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:19,936 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:19,936 - DEBUG - Running test 46
+2016-04-17 19:40:20,078 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:20,093 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:20,098 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:20,098 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:20,122 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:20,130 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:20,266 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:20,273 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:20,280 - DEBUG - Finished scoring 40 data points with score 0.35
+2016-04-17 19:40:20,281 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:20,293 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:20,304 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:20,441 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:20,449 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:20,455 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:20,455 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:20,462 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:20,467 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:20,468 - DEBUG - Running test 47
+2016-04-17 19:40:20,605 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:20,614 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:20,620 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:20,621 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:20,627 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:20,633 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:20,756 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:20,766 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:20,780 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:40:20,781 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:20,788 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:20,795 - DEBUG - Finished scoring 40 data points with score 0.725
+2016-04-17 19:40:20,927 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:20,934 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:20,942 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:20,942 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:20,950 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:20,959 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:20,964 - DEBUG - Running test 48
+2016-04-17 19:40:21,117 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:21,127 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:21,132 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:21,132 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:21,138 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:21,142 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:21,266 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:21,274 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:21,280 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:40:21,281 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:21,292 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:21,297 - DEBUG - Finished scoring 40 data points with score 0.625
+2016-04-17 19:40:21,473 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:21,496 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:21,503 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:21,503 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:21,522 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:21,525 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:21,526 - DEBUG - Running test 49
+2016-04-17 19:40:21,658 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:21,665 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:21,676 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:21,676 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:21,688 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:21,696 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:21,829 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:21,841 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:21,851 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:21,851 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:21,879 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:21,890 - DEBUG - Finished scoring 40 data points with score 0.675
+2016-04-17 19:40:22,038 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:22,050 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:22,056 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:22,056 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:22,070 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:22,079 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:22,079 - DEBUG - Running test 50
+2016-04-17 19:40:22,213 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:22,223 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:22,231 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:22,231 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:22,263 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:22,269 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:22,421 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:22,432 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:22,438 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:22,438 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:22,447 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:22,453 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:22,600 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:22,609 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:22,616 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:22,616 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:22,632 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:22,640 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:22,641 - DEBUG - Running test 51
+2016-04-17 19:40:22,783 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:22,790 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:22,801 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:22,801 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:22,810 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:22,815 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:22,965 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:22,974 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:22,979 - DEBUG - Finished scoring 40 data points with score 0.5
+2016-04-17 19:40:22,979 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:22,989 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:23,001 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:23,154 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:23,164 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:23,169 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:23,169 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:23,178 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:23,181 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:23,181 - DEBUG - Running test 52
+2016-04-17 19:40:23,324 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:23,334 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:23,339 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:23,339 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:23,347 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:23,350 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:23,481 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:23,494 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:23,503 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:23,503 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:23,517 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:23,522 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:23,663 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:23,670 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:23,683 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:23,684 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:23,700 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:23,705 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:23,706 - DEBUG - Running test 53
+2016-04-17 19:40:23,841 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:23,851 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:23,859 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:23,862 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:23,877 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:23,886 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:24,022 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:24,033 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:24,040 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:24,041 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:24,052 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:24,066 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:24,234 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:24,242 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:24,251 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:24,251 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:24,258 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:24,264 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:24,264 - DEBUG - Running test 54
+2016-04-17 19:40:24,396 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:24,405 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:24,410 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:24,411 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:24,419 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:24,428 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:24,565 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:24,573 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:24,590 - DEBUG - Finished scoring 40 data points with score 0.5
+2016-04-17 19:40:24,591 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:24,607 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:24,615 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:24,750 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:24,760 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:24,768 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:24,770 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:24,785 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:24,800 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:24,801 - DEBUG - Running test 55
+2016-04-17 19:40:24,935 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:24,943 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:24,950 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:24,950 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:24,957 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:24,961 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:25,087 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:25,096 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:25,103 - DEBUG - Finished scoring 40 data points with score 0.525
+2016-04-17 19:40:25,103 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:25,111 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:25,120 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:25,269 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:25,284 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:25,292 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:25,292 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:25,310 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:25,322 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:25,323 - DEBUG - Running test 56
+2016-04-17 19:40:25,452 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:25,460 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:25,471 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:25,473 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:25,489 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:25,493 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:25,615 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:25,624 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:25,638 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:25,638 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:25,658 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:25,662 - DEBUG - Finished scoring 40 data points with score 0.7
+2016-04-17 19:40:25,830 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:25,838 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:25,844 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:25,844 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:25,868 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:25,872 - DEBUG - Finished scoring 40 data points with score 0.75
+2016-04-17 19:40:25,873 - DEBUG - Running test 57
+2016-04-17 19:40:26,001 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:26,011 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:26,017 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:26,018 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:26,026 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:26,030 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:26,159 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:26,171 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:26,177 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:26,177 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:26,185 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:26,192 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:26,358 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:26,367 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:26,372 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:26,372 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:26,379 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:26,383 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:26,383 - DEBUG - Running test 58
+2016-04-17 19:40:26,529 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:26,536 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:26,540 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:26,541 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:26,549 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:26,559 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:26,708 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:26,715 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:26,723 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:26,723 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:26,732 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:26,738 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:26,897 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:26,907 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:26,913 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:26,913 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:26,921 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:26,927 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:26,927 - DEBUG - Running test 59
+2016-04-17 19:40:27,068 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:27,076 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:27,080 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:27,081 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:27,088 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:27,093 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:27,223 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:27,230 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:27,241 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:40:27,241 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:27,248 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:27,266 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:27,400 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:27,408 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:27,413 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:27,413 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:27,420 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:27,424 - DEBUG - Finished scoring 40 data points with score 0.5
+2016-04-17 19:40:27,424 - DEBUG - Running test 60
+2016-04-17 19:40:27,561 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:27,568 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:27,575 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:27,575 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:27,582 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:27,585 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:27,712 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:27,721 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:27,732 - DEBUG - Finished scoring 40 data points with score 0.375
+2016-04-17 19:40:27,732 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:27,741 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:27,746 - DEBUG - Finished scoring 40 data points with score 0.75
+2016-04-17 19:40:27,899 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:27,911 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:27,916 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:27,916 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:27,923 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:27,928 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:27,928 - DEBUG - Running test 61
+2016-04-17 19:40:28,082 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:28,091 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:28,096 - DEBUG - Finished scoring 40 data points with score 0.75
+2016-04-17 19:40:28,096 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:28,103 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:28,107 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:28,234 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:28,243 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:28,249 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:28,250 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:28,257 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:28,262 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:28,386 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:28,396 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:28,404 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:28,404 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:28,418 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:28,427 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:28,428 - DEBUG - Running test 62
+2016-04-17 19:40:28,576 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:28,583 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:28,588 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:28,588 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:28,603 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:28,609 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:28,741 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:28,749 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:28,754 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:28,755 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:28,762 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:28,766 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:28,918 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:28,932 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:28,939 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:28,939 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:28,952 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:28,964 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:28,964 - DEBUG - Running test 63
+2016-04-17 19:40:29,095 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:29,103 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:29,107 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:29,109 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:29,118 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:29,126 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:29,273 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:29,281 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:29,286 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:29,286 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:29,318 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:29,322 - DEBUG - Finished scoring 40 data points with score 0.725
+2016-04-17 19:40:29,469 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:29,478 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:29,484 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:29,485 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:29,491 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:29,494 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:29,494 - DEBUG - Running test 64
+2016-04-17 19:40:29,620 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:29,628 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:29,633 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:29,633 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:29,641 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:29,646 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:29,780 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:29,797 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:29,802 - DEBUG - Finished scoring 40 data points with score 0.325
+2016-04-17 19:40:29,803 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:29,809 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:29,828 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:29,951 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:29,960 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:29,971 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:29,972 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:29,989 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:29,993 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:29,993 - DEBUG - Running test 65
+2016-04-17 19:40:30,112 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:30,120 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:30,129 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:30,129 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:30,142 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:30,147 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:30,271 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:30,280 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:30,287 - DEBUG - Finished scoring 40 data points with score 0.6
+2016-04-17 19:40:30,288 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:30,294 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:30,301 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:30,442 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:30,449 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:30,457 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:30,457 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:30,469 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:30,474 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:30,474 - DEBUG - Running test 66
+2016-04-17 19:40:30,601 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:30,609 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:30,613 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:30,614 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:30,621 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:30,624 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:30,747 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:30,755 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:30,762 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:40:30,763 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:30,773 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:30,777 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:30,906 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:30,913 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:30,919 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:30,920 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:30,926 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:30,930 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:30,931 - DEBUG - Running test 67
+2016-04-17 19:40:31,063 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:31,072 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:31,077 - DEBUG - Finished scoring 40 data points with score 0.75
+2016-04-17 19:40:31,077 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:31,087 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:31,103 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:31,231 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:31,239 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:31,246 - DEBUG - Finished scoring 40 data points with score 0.375
+2016-04-17 19:40:31,246 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:31,253 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:31,257 - DEBUG - Finished scoring 40 data points with score 0.625
+2016-04-17 19:40:31,382 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:31,390 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:31,394 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:31,395 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:31,402 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:31,420 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:31,420 - DEBUG - Running test 68
+2016-04-17 19:40:31,578 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:31,587 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:31,593 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:31,593 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:31,606 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:31,617 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:31,750 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:31,757 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:31,763 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:31,764 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:31,775 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:31,785 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:31,910 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:31,923 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:31,931 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:31,931 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:31,955 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:31,961 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:31,963 - DEBUG - Running test 69
+2016-04-17 19:40:32,117 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:32,128 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:32,138 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:32,142 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:32,160 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:32,167 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:32,303 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:32,315 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:32,323 - DEBUG - Finished scoring 40 data points with score 0.325
+2016-04-17 19:40:32,323 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:32,330 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:32,335 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:32,470 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:32,478 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:32,493 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:32,493 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:32,507 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:32,513 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:32,513 - DEBUG - Running test 70
+2016-04-17 19:40:32,672 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:32,681 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:32,691 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:32,692 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:32,699 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:32,711 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:32,839 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:32,847 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:32,854 - DEBUG - Finished scoring 40 data points with score 0.5
+2016-04-17 19:40:32,855 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:32,863 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:32,872 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:33,003 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:33,010 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:33,016 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:33,017 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:33,033 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:33,039 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:33,039 - DEBUG - Running test 71
+2016-04-17 19:40:33,187 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:33,199 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:33,208 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:33,211 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:33,229 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:33,235 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:33,366 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:33,376 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:33,382 - DEBUG - Finished scoring 40 data points with score 0.325
+2016-04-17 19:40:33,382 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:33,391 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:33,395 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:33,525 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:33,535 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:33,542 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:33,542 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:33,550 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:33,566 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:33,566 - DEBUG - Running test 72
+2016-04-17 19:40:33,693 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:33,707 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:33,723 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:33,724 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:33,747 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:33,754 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:33,875 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:33,881 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:33,887 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:40:33,890 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:33,903 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:33,909 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:34,041 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,048 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,054 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:34,055 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:34,062 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:34,065 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:34,066 - DEBUG - Running test 73
+2016-04-17 19:40:34,189 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,199 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,204 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:34,205 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:34,212 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:34,217 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:34,353 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,363 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,371 - DEBUG - Finished scoring 40 data points with score 0.525
+2016-04-17 19:40:34,371 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:34,389 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:34,397 - DEBUG - Finished scoring 40 data points with score 0.75
+2016-04-17 19:40:34,534 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,541 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,545 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:34,546 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:34,553 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:34,557 - DEBUG - Finished scoring 40 data points with score 0.75
+2016-04-17 19:40:34,557 - DEBUG - Running test 74
+2016-04-17 19:40:34,678 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,685 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,691 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:34,691 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:34,698 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:34,701 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:34,819 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,826 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,832 - DEBUG - Finished scoring 40 data points with score 0.575
+2016-04-17 19:40:34,832 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:34,839 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:34,847 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:34,971 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,978 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:34,990 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:34,991 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:35,000 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:35,006 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:35,006 - DEBUG - Running test 75
+2016-04-17 19:40:35,128 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:35,135 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:35,140 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:35,143 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:35,153 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:35,163 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:35,291 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:35,298 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:35,304 - DEBUG - Finished scoring 40 data points with score 0.525
+2016-04-17 19:40:35,304 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:35,315 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:35,321 - DEBUG - Finished scoring 40 data points with score 0.75
+2016-04-17 19:40:35,455 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:35,468 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:35,477 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:35,481 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:35,494 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:35,504 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:35,505 - DEBUG - Running test 76
+2016-04-17 19:40:35,642 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:35,652 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:35,658 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:35,659 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:35,677 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:35,683 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:35,807 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:35,818 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:35,828 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:35,831 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:35,843 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:35,854 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:36,023 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:36,030 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:36,036 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:36,037 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:36,043 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:36,046 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:36,047 - DEBUG - Running test 77
+2016-04-17 19:40:36,170 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:36,177 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:36,184 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:36,184 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:36,193 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:36,199 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:36,334 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:36,342 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:36,356 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:36,356 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:36,368 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:36,372 - DEBUG - Finished scoring 40 data points with score 0.75
+2016-04-17 19:40:36,517 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:36,525 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:36,530 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:36,531 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:36,538 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:36,544 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:36,544 - DEBUG - Running test 78
+2016-04-17 19:40:36,672 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:36,681 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:36,688 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:36,688 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:36,696 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:36,704 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:36,842 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:36,852 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:36,858 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:40:36,858 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:36,865 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:36,868 - DEBUG - Finished scoring 40 data points with score 0.65
+2016-04-17 19:40:37,004 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:37,011 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:37,018 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:37,019 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:37,027 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:37,033 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:37,033 - DEBUG - Running test 79
+2016-04-17 19:40:37,161 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:37,171 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:37,176 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:37,176 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:37,185 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:37,190 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:37,323 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:37,334 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:37,343 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:37,343 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:37,351 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:37,356 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:37,482 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:37,492 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:37,498 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:37,498 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:37,504 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:37,509 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:37,510 - DEBUG - Running test 80
+2016-04-17 19:40:37,642 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:37,653 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:37,658 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:37,658 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:37,668 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:37,677 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:37,811 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:37,834 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:37,840 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:37,840 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:37,866 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:37,876 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:38,013 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:38,021 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:38,027 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:38,027 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:38,034 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:38,037 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:38,037 - DEBUG - Running test 81
+2016-04-17 19:40:38,156 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:38,163 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:38,170 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:38,170 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:38,178 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:38,189 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:38,330 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:38,342 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:38,348 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:38,350 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:38,360 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:38,367 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:38,505 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:38,512 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:38,519 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:38,519 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:38,527 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:38,530 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:38,531 - DEBUG - Running test 82
+2016-04-17 19:40:38,656 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:38,664 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:38,673 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:38,673 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:38,681 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:38,687 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:38,828 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:38,838 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:38,846 - DEBUG - Finished scoring 40 data points with score 0.375
+2016-04-17 19:40:38,847 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:38,866 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:38,870 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:38,999 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:39,009 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:39,014 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:39,014 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:39,024 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:39,028 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:39,028 - DEBUG - Running test 83
+2016-04-17 19:40:39,160 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:39,168 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:39,174 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:39,174 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:39,183 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:39,192 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:39,326 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:39,339 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:39,348 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:39,348 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:39,369 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:39,380 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:39,500 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:39,508 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:39,514 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:39,514 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:39,524 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:39,536 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:39,537 - DEBUG - Running test 84
+2016-04-17 19:40:39,662 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:39,677 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:39,692 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:39,696 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:39,712 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:39,717 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:39,861 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:39,868 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:39,876 - DEBUG - Finished scoring 40 data points with score 0.375
+2016-04-17 19:40:39,877 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:39,883 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:39,890 - DEBUG - Finished scoring 40 data points with score 0.55
+2016-04-17 19:40:40,029 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:40,039 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:40,045 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:40,045 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:40,053 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:40,058 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:40,058 - DEBUG - Running test 85
+2016-04-17 19:40:40,186 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:40,194 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:40,200 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:40,201 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:40,208 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:40,217 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:40,341 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:40,349 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:40,361 - DEBUG - Finished scoring 40 data points with score 0.35
+2016-04-17 19:40:40,363 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:40,378 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:40,382 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:40,514 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:40,523 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:40,537 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:40,538 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:40,563 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:40,566 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:40,567 - DEBUG - Running test 86
+2016-04-17 19:40:40,698 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:40,705 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:40,712 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:40,712 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:40,720 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:40,735 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:40,864 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:40,881 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:40,907 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:40,908 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:40,944 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:40,961 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:41,128 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:41,135 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:41,140 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:41,145 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:41,161 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:41,167 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:41,171 - DEBUG - Running test 87
+2016-04-17 19:40:41,301 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:41,309 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:41,314 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:41,315 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:41,324 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:41,336 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:41,467 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:41,484 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:41,490 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:40:41,490 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:41,509 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:41,517 - DEBUG - Finished scoring 40 data points with score 0.75
+2016-04-17 19:40:41,663 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:41,678 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:41,686 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:41,687 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:41,700 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:41,710 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:41,711 - DEBUG - Running test 88
+2016-04-17 19:40:41,833 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:41,842 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:41,849 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:41,849 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:41,857 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:41,863 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:41,994 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,001 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,007 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:40:42,007 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:42,014 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:42,018 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:42,141 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,149 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,155 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:42,155 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:42,162 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:42,165 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:42,166 - DEBUG - Running test 89
+2016-04-17 19:40:42,312 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,325 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,333 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:42,337 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:42,354 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:42,363 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:42,495 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,504 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,513 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:40:42,513 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:42,519 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:42,525 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:42,652 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,659 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,666 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:42,667 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:42,673 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:42,675 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:42,676 - DEBUG - Running test 90
+2016-04-17 19:40:42,814 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,822 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,828 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:42,828 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:42,835 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:42,839 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:42,960 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,970 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:42,978 - DEBUG - Finished scoring 40 data points with score 0.325
+2016-04-17 19:40:42,979 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:43,001 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:43,006 - DEBUG - Finished scoring 40 data points with score 0.7
+2016-04-17 19:40:43,133 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:43,141 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:43,152 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:43,153 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:43,169 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:43,178 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:43,181 - DEBUG - Running test 91
+2016-04-17 19:40:43,323 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:43,331 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:43,338 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:43,339 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:43,347 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:43,358 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:43,486 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:43,495 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:43,503 - DEBUG - Finished scoring 40 data points with score 0.425
+2016-04-17 19:40:43,503 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:43,510 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:43,517 - DEBUG - Finished scoring 40 data points with score 0.55
+2016-04-17 19:40:43,639 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:43,653 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:43,657 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:43,658 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:43,673 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:43,681 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:43,682 - DEBUG - Running test 92
+2016-04-17 19:40:43,821 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:43,831 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:43,839 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:43,840 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:43,852 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:43,857 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:43,992 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:44,000 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:44,007 - DEBUG - Finished scoring 40 data points with score 0.35
+2016-04-17 19:40:44,008 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:44,016 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:44,026 - DEBUG - Finished scoring 40 data points with score 0.575
+2016-04-17 19:40:44,160 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:44,169 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:44,180 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:44,183 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:44,194 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:44,208 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:44,208 - DEBUG - Running test 93
+2016-04-17 19:40:44,353 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:44,363 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:44,373 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:44,373 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:44,381 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:44,393 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:44,527 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:44,537 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:44,545 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:40:44,545 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:44,552 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:44,556 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:44,678 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:44,693 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:44,703 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:44,703 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:44,719 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:44,722 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:44,722 - DEBUG - Running test 94
+2016-04-17 19:40:44,848 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:44,856 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:44,861 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:44,862 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:44,869 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:44,872 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:45,005 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:45,014 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:45,021 - DEBUG - Finished scoring 40 data points with score 0.4
+2016-04-17 19:40:45,021 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:45,028 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:45,032 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:45,162 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:45,169 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:45,174 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:45,174 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:45,182 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:45,187 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:45,187 - DEBUG - Running test 95
+2016-04-17 19:40:45,320 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:45,328 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:45,337 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:45,338 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:45,352 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:45,363 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:45,490 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:45,498 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:45,505 - DEBUG - Finished scoring 40 data points with score 0.325
+2016-04-17 19:40:45,505 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:45,512 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:45,517 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:45,645 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:45,655 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:45,662 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:45,662 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:45,671 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:45,685 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:45,687 - DEBUG - Running test 96
+2016-04-17 19:40:45,843 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:45,850 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:45,855 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:45,855 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:45,864 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:45,867 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:46,004 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:46,015 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:46,023 - DEBUG - Finished scoring 40 data points with score 0.375
+2016-04-17 19:40:46,024 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:46,038 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:46,043 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:46,174 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:46,185 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:46,197 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:46,197 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:46,206 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:46,210 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:46,210 - DEBUG - Running test 97
+2016-04-17 19:40:46,338 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:46,349 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:46,369 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:46,370 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:46,380 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:46,383 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:46,528 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:46,541 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:46,547 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:46,547 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:46,556 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:46,561 - DEBUG - Finished scoring 40 data points with score 0.75
+2016-04-17 19:40:46,689 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:46,700 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:46,705 - DEBUG - Finished scoring 40 data points with score 0.825
+2016-04-17 19:40:46,706 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:46,713 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:46,717 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:46,718 - DEBUG - Running test 98
+2016-04-17 19:40:46,879 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:46,887 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:46,895 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:46,895 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:46,916 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:46,925 - DEBUG - Finished scoring 40 data points with score 0.975
+2016-04-17 19:40:47,073 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:47,086 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:47,094 - DEBUG - Finished scoring 40 data points with score 0.45
+2016-04-17 19:40:47,094 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:47,100 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:47,105 - DEBUG - Finished scoring 40 data points with score 0.775
+2016-04-17 19:40:47,244 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:47,254 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:47,260 - DEBUG - Finished scoring 40 data points with score 0.95
+2016-04-17 19:40:47,260 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:47,268 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:47,276 - DEBUG - Finished scoring 40 data points with score 0.875
+2016-04-17 19:40:47,277 - DEBUG - Running test 99
+2016-04-17 19:40:47,407 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:47,420 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:47,425 - DEBUG - Finished scoring 40 data points with score 0.8
+2016-04-17 19:40:47,425 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:47,432 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:47,441 - DEBUG - Finished scoring 40 data points with score 0.85
+2016-04-17 19:40:47,597 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:47,607 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:47,613 - DEBUG - Finished scoring 40 data points with score 0.475
+2016-04-17 19:40:47,614 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:47,621 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:47,624 - DEBUG - Finished scoring 40 data points with score 0.65
+2016-04-17 19:40:47,764 - DEBUG - Fitting 60 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:47,771 - DEBUG - Predicting 40 data points with svm(kernel: linear, kwargs: {}, 0.025)
+2016-04-17 19:40:47,777 - DEBUG - Finished scoring 40 data points with score 0.9
+2016-04-17 19:40:47,777 - DEBUG - Fitting 60 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:47,785 - DEBUG - Predicting 40 data points with svm(kernel: gaussian, kwargs: {}, 1.0)
+2016-04-17 19:40:47,789 - DEBUG - Finished scoring 40 data points with score 0.925
+2016-04-17 19:40:47,789 - INFO - Result for classifier SVM Linear: [0.83524999999999938, 0.43399999999999961, 0.93149999999999944]
+2016-04-17 19:40:47,789 - INFO - Result for classifier sklearn - Linear SVM: [0.82674999999999954, 0.45174999999999954, 0.90824999999999978]
+2016-04-17 19:40:47,790 - INFO - Result for classifier sklearn - RBF SVM: [0.92324999999999935, 0.86599999999999999, 0.90699999999999958]
+2016-04-17 19:40:47,790 - INFO - Result for classifier SVM Gaussian: [0.90949999999999964, 0.80249999999999921, 0.9024999999999993]

@@ -1,0 +1,776 @@
+2016-04-17 20:10:51,858 - INFO - Model: (kernel: linear, kwargs: {}, 0.001) achieved score 1.0
+2016-04-17 20:10:51,911 - INFO - Model: (kernel: linear, kwargs: {}, 0.002) achieved score 1.0
+2016-04-17 20:10:51,978 - INFO - Model: (kernel: linear, kwargs: {}, 0.004) achieved score 1.0
+2016-04-17 20:10:52,138 - INFO - Model: (kernel: linear, kwargs: {}, 0.008) achieved score 1.0
+2016-04-17 20:10:52,189 - INFO - Model: (kernel: linear, kwargs: {}, 0.016) achieved score 1.0
+2016-04-17 20:10:52,229 - INFO - Model: (kernel: linear, kwargs: {}, 0.032) achieved score 1.0
+2016-04-17 20:10:52,267 - INFO - Model: (kernel: linear, kwargs: {}, 0.064) achieved score 0.9875
+2016-04-17 20:10:52,300 - INFO - Model: (kernel: linear, kwargs: {}, 0.128) achieved score 0.9875
+2016-04-17 20:10:52,331 - INFO - Model: (kernel: linear, kwargs: {}, 0.256) achieved score 0.9875
+2016-04-17 20:10:52,361 - INFO - Model: (kernel: linear, kwargs: {}, 0.512) achieved score 0.9875
+2016-04-17 20:10:52,392 - INFO - Model: (kernel: linear, kwargs: {}, 1.024) achieved score 0.9875
+2016-04-17 20:10:52,422 - INFO - Model: (kernel: linear, kwargs: {}, 2.048) achieved score 0.9875
+2016-04-17 20:10:52,455 - INFO - Model: (kernel: linear, kwargs: {}, 4.096) achieved score 0.9875
+2016-04-17 20:10:52,517 - INFO - Model: (kernel: linear, kwargs: {}, 8.192) achieved score 0.9875
+2016-04-17 20:10:52,555 - INFO - Model: (kernel: linear, kwargs: {}, 16.384) achieved score 0.9875
+2016-04-17 20:10:52,631 - INFO - Model: (kernel: linear, kwargs: {}, 32.768) achieved score 0.9875
+2016-04-17 20:10:52,676 - INFO - Model: (kernel: linear, kwargs: {}, 65.536) achieved score 0.9875
+2016-04-17 20:10:52,762 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.001) achieved score 1.0
+2016-04-17 20:10:52,816 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.002) achieved score 1.0
+2016-04-17 20:10:52,867 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.004) achieved score 1.0
+2016-04-17 20:10:52,919 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.008) achieved score 1.0
+2016-04-17 20:10:52,974 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.016) achieved score 1.0
+2016-04-17 20:10:53,025 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.032) achieved score 1.0
+2016-04-17 20:10:53,074 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.064) achieved score 1.0
+2016-04-17 20:10:53,125 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.128) achieved score 1.0
+2016-04-17 20:10:53,175 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.256) achieved score 1.0
+2016-04-17 20:10:53,277 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.512) achieved score 1.0
+2016-04-17 20:10:53,340 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 1.024) achieved score 1.0
+2016-04-17 20:10:53,398 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 2.048) achieved score 1.0
+2016-04-17 20:10:53,450 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 4.096) achieved score 1.0
+2016-04-17 20:10:53,499 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 8.192) achieved score 1.0
+2016-04-17 20:10:53,555 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 16.384) achieved score 1.0
+2016-04-17 20:10:53,614 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 32.768) achieved score 1.0
+2016-04-17 20:10:53,671 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 65.536) achieved score 0.9875
+2016-04-17 20:10:53,721 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.001) achieved score 1.0
+2016-04-17 20:10:53,774 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.002) achieved score 1.0
+2016-04-17 20:10:53,835 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.004) achieved score 1.0
+2016-04-17 20:10:53,887 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.008) achieved score 1.0
+2016-04-17 20:10:53,946 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.016) achieved score 1.0
+2016-04-17 20:10:54,014 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.032) achieved score 1.0
+2016-04-17 20:10:54,066 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.064) achieved score 1.0
+2016-04-17 20:10:54,113 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.128) achieved score 1.0
+2016-04-17 20:10:54,165 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.256) achieved score 1.0
+2016-04-17 20:10:54,212 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.512) achieved score 1.0
+2016-04-17 20:10:54,258 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 1.024) achieved score 1.0
+2016-04-17 20:10:54,315 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 2.048) achieved score 1.0
+2016-04-17 20:10:54,373 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 4.096) achieved score 1.0
+2016-04-17 20:10:54,427 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 8.192) achieved score 0.9875
+2016-04-17 20:10:54,491 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 16.384) achieved score 0.9875
+2016-04-17 20:10:54,544 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 32.768) achieved score 0.9875
+2016-04-17 20:10:54,607 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 65.536) achieved score 0.9875
+2016-04-17 20:10:54,671 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.001) achieved score 1.0
+2016-04-17 20:10:54,727 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.002) achieved score 1.0
+2016-04-17 20:10:54,787 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.004) achieved score 1.0
+2016-04-17 20:10:54,840 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.008) achieved score 1.0
+2016-04-17 20:10:54,892 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.016) achieved score 1.0
+2016-04-17 20:10:54,942 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.032) achieved score 1.0
+2016-04-17 20:10:55,002 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.064) achieved score 1.0
+2016-04-17 20:10:55,050 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.128) achieved score 1.0
+2016-04-17 20:10:55,106 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.256) achieved score 1.0
+2016-04-17 20:10:55,157 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.512) achieved score 0.9875
+2016-04-17 20:10:55,207 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 1.024) achieved score 0.9875
+2016-04-17 20:10:55,267 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 2.048) achieved score 1.0
+2016-04-17 20:10:55,315 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 4.096) achieved score 1.0
+2016-04-17 20:10:55,366 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 8.192) achieved score 1.0
+2016-04-17 20:10:55,419 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 16.384) achieved score 0.8875
+2016-04-17 20:10:55,463 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 32.768) achieved score 0.8
+2016-04-17 20:10:55,502 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 65.536) achieved score 0.8875
+2016-04-17 20:10:55,555 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.001) achieved score 1.0
+2016-04-17 20:10:55,608 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.002) achieved score 1.0
+2016-04-17 20:10:55,658 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.004) achieved score 1.0
+2016-04-17 20:10:55,708 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.008) achieved score 1.0
+2016-04-17 20:10:55,775 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.016) achieved score 1.0
+2016-04-17 20:10:55,880 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.032) achieved score 1.0
+2016-04-17 20:10:55,978 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.064) achieved score 1.0
+2016-04-17 20:10:56,032 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.128) achieved score 1.0
+2016-04-17 20:10:56,072 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.256) achieved score 0.9875
+2016-04-17 20:10:56,115 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.512) achieved score 1.0
+2016-04-17 20:10:56,150 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 1.024) achieved score 1.0
+2016-04-17 20:10:56,182 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 2.048) achieved score 0.875
+2016-04-17 20:10:56,216 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 4.096) achieved score 0.8
+2016-04-17 20:10:56,253 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 8.192) achieved score 0.825
+2016-04-17 20:10:56,314 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 16.384) achieved score 0.8375
+2016-04-17 20:10:56,354 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 32.768) achieved score 0.825
+2016-04-17 20:10:56,398 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 65.536) achieved score 0.825
+2016-04-17 20:10:56,456 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.001) achieved score 0.975
+2016-04-17 20:10:56,525 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.002) achieved score 0.975
+2016-04-17 20:10:56,578 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.004) achieved score 0.975
+2016-04-17 20:10:56,630 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.008) achieved score 0.975
+2016-04-17 20:10:56,682 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.016) achieved score 0.975
+2016-04-17 20:10:56,738 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.032) achieved score 0.975
+2016-04-17 20:10:56,790 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.064) achieved score 0.975
+2016-04-17 20:10:56,845 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.128) achieved score 0.975
+2016-04-17 20:10:56,899 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.256) achieved score 0.975
+2016-04-17 20:10:56,944 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.512) achieved score 0.975
+2016-04-17 20:10:57,002 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 1.024) achieved score 0.975
+2016-04-17 20:10:57,048 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 2.048) achieved score 0.975
+2016-04-17 20:10:57,088 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 4.096) achieved score 0.9875
+2016-04-17 20:10:57,130 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 8.192) achieved score 0.975
+2016-04-17 20:10:57,171 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 16.384) achieved score 0.9875
+2016-04-17 20:10:57,215 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 32.768) achieved score 0.975
+2016-04-17 20:10:57,265 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 65.536) achieved score 0.975
+2016-04-17 20:10:57,319 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.001) achieved score 0.85
+2016-04-17 20:10:57,398 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.002) achieved score 0.85
+2016-04-17 20:10:57,457 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.004) achieved score 0.85
+2016-04-17 20:10:57,522 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.008) achieved score 0.85
+2016-04-17 20:10:57,575 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.016) achieved score 0.85
+2016-04-17 20:10:57,627 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.032) achieved score 0.85
+2016-04-17 20:10:57,678 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.064) achieved score 0.85
+2016-04-17 20:10:57,728 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.128) achieved score 0.85
+2016-04-17 20:10:57,776 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.256) achieved score 0.85
+2016-04-17 20:10:57,830 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.512) achieved score 0.8625
+2016-04-17 20:10:57,880 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 1.024) achieved score 0.8625
+2016-04-17 20:10:57,932 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 2.048) achieved score 0.8625
+2016-04-17 20:10:57,983 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 4.096) achieved score 0.8625
+2016-04-17 20:10:58,040 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 8.192) achieved score 0.8625
+2016-04-17 20:10:58,097 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 16.384) achieved score 0.8625
+2016-04-17 20:10:58,154 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 32.768) achieved score 0.8625
+2016-04-17 20:10:58,211 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 65.536) achieved score 0.8625
+2016-04-17 20:10:58,268 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.001) achieved score 0.675
+2016-04-17 20:10:58,321 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.002) achieved score 0.675
+2016-04-17 20:10:58,387 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.004) achieved score 0.675
+2016-04-17 20:10:58,436 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.008) achieved score 0.675
+2016-04-17 20:10:58,487 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.016) achieved score 0.675
+2016-04-17 20:10:58,538 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.032) achieved score 0.675
+2016-04-17 20:10:58,590 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.064) achieved score 0.675
+2016-04-17 20:10:58,641 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.128) achieved score 0.675
+2016-04-17 20:10:58,690 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.256) achieved score 0.675
+2016-04-17 20:10:58,739 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.512) achieved score 0.675
+2016-04-17 20:10:58,792 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 1.024) achieved score 0.675
+2016-04-17 20:10:58,839 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 2.048) achieved score 0.675
+2016-04-17 20:10:58,888 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 4.096) achieved score 0.675
+2016-04-17 20:10:58,935 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 8.192) achieved score 0.675
+2016-04-17 20:10:58,989 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 16.384) achieved score 0.675
+2016-04-17 20:10:59,043 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 32.768) achieved score 0.675
+2016-04-17 20:10:59,095 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 65.536) achieved score 0.675
+2016-04-17 20:10:59,145 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.001) achieved score 0.6
+2016-04-17 20:10:59,194 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.002) achieved score 0.6
+2016-04-17 20:10:59,249 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.004) achieved score 0.6
+2016-04-17 20:10:59,298 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.008) achieved score 0.6
+2016-04-17 20:10:59,350 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.016) achieved score 0.6
+2016-04-17 20:10:59,397 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.032) achieved score 0.6
+2016-04-17 20:10:59,444 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.064) achieved score 0.6
+2016-04-17 20:10:59,501 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.128) achieved score 0.6
+2016-04-17 20:10:59,556 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.256) achieved score 0.6
+2016-04-17 20:10:59,608 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.512) achieved score 0.6
+2016-04-17 20:10:59,668 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 1.024) achieved score 0.6
+2016-04-17 20:10:59,723 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 2.048) achieved score 0.6
+2016-04-17 20:10:59,783 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 4.096) achieved score 0.6
+2016-04-17 20:10:59,838 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 8.192) achieved score 0.6
+2016-04-17 20:10:59,892 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 16.384) achieved score 0.6
+2016-04-17 20:10:59,947 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 32.768) achieved score 0.6
+2016-04-17 20:11:00,009 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 65.536) achieved score 0.6
+2016-04-17 20:11:00,009 - INFO - Best model: (kernel: linear, kwargs: {}, 0.001) achieved score 1.0
+2016-04-17 20:11:00,025 - INFO - Best model achieved score 1.0 on test data
+2016-04-17 20:11:00,078 - INFO - Model: (kernel: linear, kwargs: {}, 0.001) achieved score 1.0
+2016-04-17 20:11:00,131 - INFO - Model: (kernel: linear, kwargs: {}, 0.002) achieved score 1.0
+2016-04-17 20:11:00,187 - INFO - Model: (kernel: linear, kwargs: {}, 0.004) achieved score 1.0
+2016-04-17 20:11:00,244 - INFO - Model: (kernel: linear, kwargs: {}, 0.008) achieved score 1.0
+2016-04-17 20:11:00,292 - INFO - Model: (kernel: linear, kwargs: {}, 0.016) achieved score 1.0
+2016-04-17 20:11:00,347 - INFO - Model: (kernel: linear, kwargs: {}, 0.032) achieved score 1.0
+2016-04-17 20:11:00,382 - INFO - Model: (kernel: linear, kwargs: {}, 0.064) achieved score 1.0
+2016-04-17 20:11:00,416 - INFO - Model: (kernel: linear, kwargs: {}, 0.128) achieved score 0.9875
+2016-04-17 20:11:00,446 - INFO - Model: (kernel: linear, kwargs: {}, 0.256) achieved score 0.9875
+2016-04-17 20:11:00,482 - INFO - Model: (kernel: linear, kwargs: {}, 0.512) achieved score 0.9875
+2016-04-17 20:11:00,512 - INFO - Model: (kernel: linear, kwargs: {}, 1.024) achieved score 0.9875
+2016-04-17 20:11:00,543 - INFO - Model: (kernel: linear, kwargs: {}, 2.048) achieved score 0.9875
+2016-04-17 20:11:00,574 - INFO - Model: (kernel: linear, kwargs: {}, 4.096) achieved score 0.9875
+2016-04-17 20:11:00,606 - INFO - Model: (kernel: linear, kwargs: {}, 8.192) achieved score 0.9875
+2016-04-17 20:11:00,648 - INFO - Model: (kernel: linear, kwargs: {}, 16.384) achieved score 0.9875
+2016-04-17 20:11:00,726 - INFO - Model: (kernel: linear, kwargs: {}, 32.768) achieved score 0.9875
+2016-04-17 20:11:00,782 - INFO - Model: (kernel: linear, kwargs: {}, 65.536) achieved score 0.9875
+2016-04-17 20:11:00,876 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.001) achieved score 1.0
+2016-04-17 20:11:00,985 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.002) achieved score 1.0
+2016-04-17 20:11:01,047 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.004) achieved score 1.0
+2016-04-17 20:11:01,114 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.008) achieved score 1.0
+2016-04-17 20:11:01,163 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.016) achieved score 1.0
+2016-04-17 20:11:01,212 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.032) achieved score 1.0
+2016-04-17 20:11:01,275 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.064) achieved score 1.0
+2016-04-17 20:11:01,329 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.128) achieved score 1.0
+2016-04-17 20:11:01,377 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.256) achieved score 1.0
+2016-04-17 20:11:01,426 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.512) achieved score 1.0
+2016-04-17 20:11:01,484 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 1.024) achieved score 1.0
+2016-04-17 20:11:01,536 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 2.048) achieved score 1.0
+2016-04-17 20:11:01,589 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 4.096) achieved score 1.0
+2016-04-17 20:11:01,643 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 8.192) achieved score 1.0
+2016-04-17 20:11:01,693 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 16.384) achieved score 1.0
+2016-04-17 20:11:01,751 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 32.768) achieved score 1.0
+2016-04-17 20:11:01,809 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 65.536) achieved score 0.9875
+2016-04-17 20:11:01,861 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.001) achieved score 1.0
+2016-04-17 20:11:01,916 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.002) achieved score 1.0
+2016-04-17 20:11:01,975 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.004) achieved score 1.0
+2016-04-17 20:11:02,052 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.008) achieved score 1.0
+2016-04-17 20:11:02,113 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.016) achieved score 1.0
+2016-04-17 20:11:02,166 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.032) achieved score 1.0
+2016-04-17 20:11:02,216 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.064) achieved score 1.0
+2016-04-17 20:11:02,269 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.128) achieved score 1.0
+2016-04-17 20:11:02,321 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.256) achieved score 1.0
+2016-04-17 20:11:02,373 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.512) achieved score 1.0
+2016-04-17 20:11:02,420 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 1.024) achieved score 1.0
+2016-04-17 20:11:02,479 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 2.048) achieved score 1.0
+2016-04-17 20:11:02,535 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 4.096) achieved score 1.0
+2016-04-17 20:11:02,602 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 8.192) achieved score 0.9875
+2016-04-17 20:11:02,672 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 16.384) achieved score 0.975
+2016-04-17 20:11:02,741 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 32.768) achieved score 1.0
+2016-04-17 20:11:02,800 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 65.536) achieved score 0.9625
+2016-04-17 20:11:02,854 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.001) achieved score 1.0
+2016-04-17 20:11:02,910 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.002) achieved score 1.0
+2016-04-17 20:11:02,963 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.004) achieved score 1.0
+2016-04-17 20:11:03,032 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.008) achieved score 1.0
+2016-04-17 20:11:03,098 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.016) achieved score 1.0
+2016-04-17 20:11:03,174 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.032) achieved score 1.0
+2016-04-17 20:11:03,232 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.064) achieved score 1.0
+2016-04-17 20:11:03,286 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.128) achieved score 1.0
+2016-04-17 20:11:03,345 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.256) achieved score 1.0
+2016-04-17 20:11:03,399 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.512) achieved score 1.0
+2016-04-17 20:11:03,444 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 1.024) achieved score 1.0
+2016-04-17 20:11:03,495 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 2.048) achieved score 0.9875
+2016-04-17 20:11:03,556 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 4.096) achieved score 1.0
+2016-04-17 20:11:03,625 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 8.192) achieved score 1.0
+2016-04-17 20:11:03,676 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 16.384) achieved score 0.9
+2016-04-17 20:11:03,714 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 32.768) achieved score 0.8875
+2016-04-17 20:11:03,758 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 65.536) achieved score 0.9
+2016-04-17 20:11:03,813 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.001) achieved score 1.0
+2016-04-17 20:11:03,870 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.002) achieved score 1.0
+2016-04-17 20:11:03,921 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.004) achieved score 1.0
+2016-04-17 20:11:03,982 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.008) achieved score 1.0
+2016-04-17 20:11:04,040 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.016) achieved score 1.0
+2016-04-17 20:11:04,095 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.032) achieved score 1.0
+2016-04-17 20:11:04,154 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.064) achieved score 1.0
+2016-04-17 20:11:04,220 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.128) achieved score 1.0
+2016-04-17 20:11:04,285 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.256) achieved score 1.0
+2016-04-17 20:11:04,346 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.512) achieved score 1.0
+2016-04-17 20:11:04,384 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 1.024) achieved score 1.0
+2016-04-17 20:11:04,420 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 2.048) achieved score 0.9875
+2016-04-17 20:11:04,454 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 4.096) achieved score 0.9875
+2016-04-17 20:11:04,495 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 8.192) achieved score 0.975
+2016-04-17 20:11:04,533 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 16.384) achieved score 0.9875
+2016-04-17 20:11:04,570 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 32.768) achieved score 0.8875
+2016-04-17 20:11:04,610 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 65.536) achieved score 0.9875
+2016-04-17 20:11:04,666 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.001) achieved score 0.975
+2016-04-17 20:11:04,725 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.002) achieved score 0.975
+2016-04-17 20:11:04,780 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.004) achieved score 0.975
+2016-04-17 20:11:04,845 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.008) achieved score 0.975
+2016-04-17 20:11:04,914 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.016) achieved score 0.975
+2016-04-17 20:11:04,968 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.032) achieved score 0.975
+2016-04-17 20:11:05,033 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.064) achieved score 0.975
+2016-04-17 20:11:05,084 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.128) achieved score 0.975
+2016-04-17 20:11:05,129 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.256) achieved score 0.9875
+2016-04-17 20:11:05,170 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.512) achieved score 0.9875
+2016-04-17 20:11:05,212 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 1.024) achieved score 0.9875
+2016-04-17 20:11:05,261 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 2.048) achieved score 0.9875
+2016-04-17 20:11:05,305 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 4.096) achieved score 0.9875
+2016-04-17 20:11:05,371 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 8.192) achieved score 0.9875
+2016-04-17 20:11:05,419 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 16.384) achieved score 0.9875
+2016-04-17 20:11:05,478 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 32.768) achieved score 0.9875
+2016-04-17 20:11:05,533 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 65.536) achieved score 0.9875
+2016-04-17 20:11:05,584 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.001) achieved score 0.8625
+2016-04-17 20:11:05,637 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.002) achieved score 0.8625
+2016-04-17 20:11:05,692 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.004) achieved score 0.8625
+2016-04-17 20:11:05,750 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.008) achieved score 0.8625
+2016-04-17 20:11:05,807 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.016) achieved score 0.8625
+2016-04-17 20:11:05,867 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.032) achieved score 0.8625
+2016-04-17 20:11:05,924 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.064) achieved score 0.8625
+2016-04-17 20:11:05,996 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.128) achieved score 0.8625
+2016-04-17 20:11:06,051 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.256) achieved score 0.8625
+2016-04-17 20:11:06,106 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.512) achieved score 0.875
+2016-04-17 20:11:06,160 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 1.024) achieved score 0.925
+2016-04-17 20:11:06,214 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 2.048) achieved score 0.925
+2016-04-17 20:11:06,274 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 4.096) achieved score 0.9375
+2016-04-17 20:11:06,327 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 8.192) achieved score 0.925
+2016-04-17 20:11:06,383 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 16.384) achieved score 0.925
+2016-04-17 20:11:06,445 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 32.768) achieved score 0.9375
+2016-04-17 20:11:06,524 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 65.536) achieved score 0.925
+2016-04-17 20:11:06,585 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.001) achieved score 0.7125
+2016-04-17 20:11:06,640 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.002) achieved score 0.7125
+2016-04-17 20:11:06,692 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.004) achieved score 0.7125
+2016-04-17 20:11:06,751 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.008) achieved score 0.7125
+2016-04-17 20:11:06,805 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.016) achieved score 0.7125
+2016-04-17 20:11:06,856 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.032) achieved score 0.7125
+2016-04-17 20:11:06,905 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.064) achieved score 0.7125
+2016-04-17 20:11:06,955 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.128) achieved score 0.7125
+2016-04-17 20:11:07,014 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.256) achieved score 0.7125
+2016-04-17 20:11:07,062 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.512) achieved score 0.7125
+2016-04-17 20:11:07,116 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 1.024) achieved score 0.7125
+2016-04-17 20:11:07,164 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 2.048) achieved score 0.7125
+2016-04-17 20:11:07,234 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 4.096) achieved score 0.7125
+2016-04-17 20:11:07,292 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 8.192) achieved score 0.7125
+2016-04-17 20:11:07,351 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 16.384) achieved score 0.7125
+2016-04-17 20:11:07,440 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 32.768) achieved score 0.7125
+2016-04-17 20:11:07,513 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 65.536) achieved score 0.7125
+2016-04-17 20:11:07,590 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.001) achieved score 0.6125
+2016-04-17 20:11:07,643 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.002) achieved score 0.6125
+2016-04-17 20:11:07,693 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.004) achieved score 0.625
+2016-04-17 20:11:07,752 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.008) achieved score 0.625
+2016-04-17 20:11:07,805 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.016) achieved score 0.625
+2016-04-17 20:11:07,855 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.032) achieved score 0.625
+2016-04-17 20:11:07,914 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.064) achieved score 0.625
+2016-04-17 20:11:07,973 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.128) achieved score 0.625
+2016-04-17 20:11:08,047 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.256) achieved score 0.625
+2016-04-17 20:11:08,093 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.512) achieved score 0.625
+2016-04-17 20:11:08,146 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 1.024) achieved score 0.625
+2016-04-17 20:11:08,194 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 2.048) achieved score 0.625
+2016-04-17 20:11:08,248 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 4.096) achieved score 0.625
+2016-04-17 20:11:08,297 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 8.192) achieved score 0.625
+2016-04-17 20:11:08,354 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 16.384) achieved score 0.625
+2016-04-17 20:11:08,420 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 32.768) achieved score 0.625
+2016-04-17 20:11:08,489 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 65.536) achieved score 0.625
+2016-04-17 20:11:08,489 - INFO - Best model: (kernel: linear, kwargs: {}, 0.001) achieved score 1.0
+2016-04-17 20:11:08,512 - INFO - Best model achieved score 1.0 on test data
+2016-04-17 20:11:08,576 - INFO - Model: (kernel: linear, kwargs: {}, 0.001) achieved score 1.0
+2016-04-17 20:11:08,634 - INFO - Model: (kernel: linear, kwargs: {}, 0.002) achieved score 1.0
+2016-04-17 20:11:08,691 - INFO - Model: (kernel: linear, kwargs: {}, 0.004) achieved score 1.0
+2016-04-17 20:11:08,752 - INFO - Model: (kernel: linear, kwargs: {}, 0.008) achieved score 1.0
+2016-04-17 20:11:08,799 - INFO - Model: (kernel: linear, kwargs: {}, 0.016) achieved score 1.0
+2016-04-17 20:11:08,842 - INFO - Model: (kernel: linear, kwargs: {}, 0.032) achieved score 1.0
+2016-04-17 20:11:08,885 - INFO - Model: (kernel: linear, kwargs: {}, 0.064) achieved score 1.0
+2016-04-17 20:11:08,946 - INFO - Model: (kernel: linear, kwargs: {}, 0.128) achieved score 1.0
+2016-04-17 20:11:09,018 - INFO - Model: (kernel: linear, kwargs: {}, 0.256) achieved score 1.0
+2016-04-17 20:11:09,059 - INFO - Model: (kernel: linear, kwargs: {}, 0.512) achieved score 0.9875
+2016-04-17 20:11:09,094 - INFO - Model: (kernel: linear, kwargs: {}, 1.024) achieved score 0.9875
+2016-04-17 20:11:09,133 - INFO - Model: (kernel: linear, kwargs: {}, 2.048) achieved score 0.9875
+2016-04-17 20:11:09,167 - INFO - Model: (kernel: linear, kwargs: {}, 4.096) achieved score 1.0
+2016-04-17 20:11:09,204 - INFO - Model: (kernel: linear, kwargs: {}, 8.192) achieved score 1.0
+2016-04-17 20:11:09,253 - INFO - Model: (kernel: linear, kwargs: {}, 16.384) achieved score 1.0
+2016-04-17 20:11:09,297 - INFO - Model: (kernel: linear, kwargs: {}, 32.768) achieved score 0.9875
+2016-04-17 20:11:09,337 - INFO - Model: (kernel: linear, kwargs: {}, 65.536) achieved score 1.0
+2016-04-17 20:11:09,393 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.001) achieved score 1.0
+2016-04-17 20:11:09,464 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.002) achieved score 1.0
+2016-04-17 20:11:09,531 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.004) achieved score 1.0
+2016-04-17 20:11:09,599 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.008) achieved score 1.0
+2016-04-17 20:11:09,655 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.016) achieved score 1.0
+2016-04-17 20:11:09,710 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.032) achieved score 1.0
+2016-04-17 20:11:09,775 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.064) achieved score 1.0
+2016-04-17 20:11:09,832 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.128) achieved score 1.0
+2016-04-17 20:11:09,888 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.256) achieved score 1.0
+2016-04-17 20:11:09,946 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.512) achieved score 1.0
+2016-04-17 20:11:10,021 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 1.024) achieved score 1.0
+2016-04-17 20:11:10,090 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 2.048) achieved score 1.0
+2016-04-17 20:11:10,152 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 4.096) achieved score 1.0
+2016-04-17 20:11:10,203 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 8.192) achieved score 1.0
+2016-04-17 20:11:10,258 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 16.384) achieved score 1.0
+2016-04-17 20:11:10,317 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 32.768) achieved score 1.0
+2016-04-17 20:11:10,394 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 65.536) achieved score 0.9875
+2016-04-17 20:11:10,454 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.001) achieved score 1.0
+2016-04-17 20:11:10,528 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.002) achieved score 1.0
+2016-04-17 20:11:10,580 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.004) achieved score 1.0
+2016-04-17 20:11:10,639 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.008) achieved score 1.0
+2016-04-17 20:11:10,692 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.016) achieved score 1.0
+2016-04-17 20:11:10,743 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.032) achieved score 1.0
+2016-04-17 20:11:10,797 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.064) achieved score 1.0
+2016-04-17 20:11:10,847 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.128) achieved score 1.0
+2016-04-17 20:11:10,905 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.256) achieved score 1.0
+2016-04-17 20:11:10,956 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.512) achieved score 1.0
+2016-04-17 20:11:11,049 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 1.024) achieved score 1.0
+2016-04-17 20:11:11,123 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 2.048) achieved score 1.0
+2016-04-17 20:11:11,180 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 4.096) achieved score 0.9875
+2016-04-17 20:11:11,242 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 8.192) achieved score 0.9875
+2016-04-17 20:11:11,306 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 16.384) achieved score 1.0
+2016-04-17 20:11:11,373 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 32.768) achieved score 0.9875
+2016-04-17 20:11:11,448 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 65.536) achieved score 0.975
+2016-04-17 20:11:11,522 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.001) achieved score 1.0
+2016-04-17 20:11:11,583 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.002) achieved score 1.0
+2016-04-17 20:11:11,638 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.004) achieved score 1.0
+2016-04-17 20:11:11,690 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.008) achieved score 1.0
+2016-04-17 20:11:11,741 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.016) achieved score 1.0
+2016-04-17 20:11:11,795 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.032) achieved score 1.0
+2016-04-17 20:11:11,850 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.064) achieved score 1.0
+2016-04-17 20:11:11,908 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.128) achieved score 1.0
+2016-04-17 20:11:11,970 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.256) achieved score 1.0
+2016-04-17 20:11:12,043 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.512) achieved score 0.9875
+2016-04-17 20:11:12,089 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 1.024) achieved score 1.0
+2016-04-17 20:11:12,143 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 2.048) achieved score 1.0
+2016-04-17 20:11:12,194 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 4.096) achieved score 1.0
+2016-04-17 20:11:12,243 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 8.192) achieved score 0.975
+2016-04-17 20:11:12,299 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 16.384) achieved score 0.75
+2016-04-17 20:11:12,357 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 32.768) achieved score 0.8375
+2016-04-17 20:11:12,405 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 65.536) achieved score 0.8
+2016-04-17 20:11:12,461 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.001) achieved score 1.0
+2016-04-17 20:11:12,526 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.002) achieved score 1.0
+2016-04-17 20:11:12,586 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.004) achieved score 1.0
+2016-04-17 20:11:12,647 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.008) achieved score 1.0
+2016-04-17 20:11:12,706 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.016) achieved score 1.0
+2016-04-17 20:11:12,761 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.032) achieved score 1.0
+2016-04-17 20:11:12,816 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.064) achieved score 1.0
+2016-04-17 20:11:12,862 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.128) achieved score 1.0
+2016-04-17 20:11:12,908 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.256) achieved score 1.0
+2016-04-17 20:11:12,947 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.512) achieved score 0.9875
+2016-04-17 20:11:13,014 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 1.024) achieved score 0.9875
+2016-04-17 20:11:13,078 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 2.048) achieved score 0.925
+2016-04-17 20:11:13,125 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 4.096) achieved score 0.9625
+2016-04-17 20:11:13,165 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 8.192) achieved score 0.8875
+2016-04-17 20:11:13,205 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 16.384) achieved score 0.9625
+2016-04-17 20:11:13,254 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 32.768) achieved score 0.8875
+2016-04-17 20:11:13,296 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 65.536) achieved score 0.8875
+2016-04-17 20:11:13,359 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.001) achieved score 0.9625
+2016-04-17 20:11:13,430 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.002) achieved score 0.9625
+2016-04-17 20:11:13,525 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.004) achieved score 0.9625
+2016-04-17 20:11:13,599 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.008) achieved score 0.9625
+2016-04-17 20:11:13,655 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.016) achieved score 0.9625
+2016-04-17 20:11:13,706 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.032) achieved score 0.9625
+2016-04-17 20:11:13,768 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.064) achieved score 0.9625
+2016-04-17 20:11:13,819 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.128) achieved score 0.975
+2016-04-17 20:11:13,867 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.256) achieved score 0.9875
+2016-04-17 20:11:13,905 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.512) achieved score 0.9875
+2016-04-17 20:11:13,950 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 1.024) achieved score 1.0
+2016-04-17 20:11:14,008 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 2.048) achieved score 0.9875
+2016-04-17 20:11:14,081 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 4.096) achieved score 1.0
+2016-04-17 20:11:14,135 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 8.192) achieved score 0.9875
+2016-04-17 20:11:14,184 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 16.384) achieved score 0.9875
+2016-04-17 20:11:14,238 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 32.768) achieved score 1.0
+2016-04-17 20:11:14,293 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 65.536) achieved score 0.9875
+2016-04-17 20:11:14,345 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.001) achieved score 0.8625
+2016-04-17 20:11:14,398 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.002) achieved score 0.8625
+2016-04-17 20:11:14,452 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.004) achieved score 0.8625
+2016-04-17 20:11:14,513 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.008) achieved score 0.8625
+2016-04-17 20:11:14,581 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.016) achieved score 0.8625
+2016-04-17 20:11:14,635 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.032) achieved score 0.8625
+2016-04-17 20:11:14,695 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.064) achieved score 0.8625
+2016-04-17 20:11:14,745 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.128) achieved score 0.8625
+2016-04-17 20:11:14,797 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.256) achieved score 0.8625
+2016-04-17 20:11:14,853 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.512) achieved score 0.875
+2016-04-17 20:11:14,907 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 1.024) achieved score 0.9
+2016-04-17 20:11:14,961 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 2.048) achieved score 0.9
+2016-04-17 20:11:15,025 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 4.096) achieved score 0.9
+2016-04-17 20:11:15,097 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 8.192) achieved score 0.9
+2016-04-17 20:11:15,162 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 16.384) achieved score 0.9
+2016-04-17 20:11:15,224 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 32.768) achieved score 0.9
+2016-04-17 20:11:15,297 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 65.536) achieved score 0.9
+2016-04-17 20:11:15,359 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.001) achieved score 0.7375
+2016-04-17 20:11:15,415 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.002) achieved score 0.7375
+2016-04-17 20:11:15,466 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.004) achieved score 0.7375
+2016-04-17 20:11:15,524 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.008) achieved score 0.7375
+2016-04-17 20:11:15,577 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.016) achieved score 0.7375
+2016-04-17 20:11:15,631 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.032) achieved score 0.7375
+2016-04-17 20:11:15,685 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.064) achieved score 0.7375
+2016-04-17 20:11:15,754 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.128) achieved score 0.7375
+2016-04-17 20:11:15,807 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.256) achieved score 0.7375
+2016-04-17 20:11:15,859 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.512) achieved score 0.7375
+2016-04-17 20:11:15,921 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 1.024) achieved score 0.7375
+2016-04-17 20:11:15,977 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 2.048) achieved score 0.7375
+2016-04-17 20:11:16,050 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 4.096) achieved score 0.7375
+2016-04-17 20:11:16,107 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 8.192) achieved score 0.7375
+2016-04-17 20:11:16,171 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 16.384) achieved score 0.7375
+2016-04-17 20:11:16,231 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 32.768) achieved score 0.7375
+2016-04-17 20:11:16,289 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 65.536) achieved score 0.7375
+2016-04-17 20:11:16,344 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.001) achieved score 0.625
+2016-04-17 20:11:16,397 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.002) achieved score 0.625
+2016-04-17 20:11:16,450 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.004) achieved score 0.65
+2016-04-17 20:11:16,518 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.008) achieved score 0.65
+2016-04-17 20:11:16,593 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.016) achieved score 0.65
+2016-04-17 20:11:16,671 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.032) achieved score 0.65
+2016-04-17 20:11:16,723 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.064) achieved score 0.65
+2016-04-17 20:11:16,792 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.128) achieved score 0.65
+2016-04-17 20:11:16,845 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.256) achieved score 0.65
+2016-04-17 20:11:16,894 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.512) achieved score 0.65
+2016-04-17 20:11:16,949 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 1.024) achieved score 0.65
+2016-04-17 20:11:17,012 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 2.048) achieved score 0.65
+2016-04-17 20:11:17,065 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 4.096) achieved score 0.65
+2016-04-17 20:11:17,116 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 8.192) achieved score 0.65
+2016-04-17 20:11:17,178 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 16.384) achieved score 0.65
+2016-04-17 20:11:17,242 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 32.768) achieved score 0.65
+2016-04-17 20:11:17,302 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 65.536) achieved score 0.65
+2016-04-17 20:11:17,302 - INFO - Best model: (kernel: linear, kwargs: {}, 0.001) achieved score 1.0
+2016-04-17 20:11:17,319 - INFO - Best model achieved score 1.0 on test data
+2016-04-17 20:11:17,374 - INFO - Model: (kernel: linear, kwargs: {}, 0.001) achieved score 1.0
+2016-04-17 20:11:17,427 - INFO - Model: (kernel: linear, kwargs: {}, 0.002) achieved score 1.0
+2016-04-17 20:11:17,513 - INFO - Model: (kernel: linear, kwargs: {}, 0.004) achieved score 1.0
+2016-04-17 20:11:17,585 - INFO - Model: (kernel: linear, kwargs: {}, 0.008) achieved score 1.0
+2016-04-17 20:11:17,634 - INFO - Model: (kernel: linear, kwargs: {}, 0.016) achieved score 1.0
+2016-04-17 20:11:17,682 - INFO - Model: (kernel: linear, kwargs: {}, 0.032) achieved score 1.0
+2016-04-17 20:11:17,725 - INFO - Model: (kernel: linear, kwargs: {}, 0.064) achieved score 1.0
+2016-04-17 20:11:17,781 - INFO - Model: (kernel: linear, kwargs: {}, 0.128) achieved score 1.0
+2016-04-17 20:11:17,828 - INFO - Model: (kernel: linear, kwargs: {}, 0.256) achieved score 0.9875
+2016-04-17 20:11:17,868 - INFO - Model: (kernel: linear, kwargs: {}, 0.512) achieved score 1.0
+2016-04-17 20:11:17,900 - INFO - Model: (kernel: linear, kwargs: {}, 1.024) achieved score 0.9875
+2016-04-17 20:11:17,941 - INFO - Model: (kernel: linear, kwargs: {}, 2.048) achieved score 1.0
+2016-04-17 20:11:17,995 - INFO - Model: (kernel: linear, kwargs: {}, 4.096) achieved score 1.0
+2016-04-17 20:11:18,031 - INFO - Model: (kernel: linear, kwargs: {}, 8.192) achieved score 1.0
+2016-04-17 20:11:18,073 - INFO - Model: (kernel: linear, kwargs: {}, 16.384) achieved score 1.0
+2016-04-17 20:11:18,115 - INFO - Model: (kernel: linear, kwargs: {}, 32.768) achieved score 1.0
+2016-04-17 20:11:18,167 - INFO - Model: (kernel: linear, kwargs: {}, 65.536) achieved score 1.0
+2016-04-17 20:11:18,225 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.001) achieved score 1.0
+2016-04-17 20:11:18,291 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.002) achieved score 1.0
+2016-04-17 20:11:18,352 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.004) achieved score 1.0
+2016-04-17 20:11:18,405 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.008) achieved score 1.0
+2016-04-17 20:11:18,455 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.016) achieved score 1.0
+2016-04-17 20:11:18,514 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.032) achieved score 1.0
+2016-04-17 20:11:18,566 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.064) achieved score 1.0
+2016-04-17 20:11:18,616 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.128) achieved score 1.0
+2016-04-17 20:11:18,670 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.256) achieved score 1.0
+2016-04-17 20:11:18,722 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.512) achieved score 1.0
+2016-04-17 20:11:18,779 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 1.024) achieved score 1.0
+2016-04-17 20:11:18,829 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 2.048) achieved score 1.0
+2016-04-17 20:11:18,882 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 4.096) achieved score 1.0
+2016-04-17 20:11:18,929 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 8.192) achieved score 1.0
+2016-04-17 20:11:18,990 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 16.384) achieved score 1.0
+2016-04-17 20:11:19,049 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 32.768) achieved score 1.0
+2016-04-17 20:11:19,109 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 65.536) achieved score 0.9875
+2016-04-17 20:11:19,173 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.001) achieved score 1.0
+2016-04-17 20:11:19,238 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.002) achieved score 1.0
+2016-04-17 20:11:19,330 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.004) achieved score 1.0
+2016-04-17 20:11:19,397 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.008) achieved score 1.0
+2016-04-17 20:11:19,451 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.016) achieved score 1.0
+2016-04-17 20:11:19,525 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.032) achieved score 1.0
+2016-04-17 20:11:19,582 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.064) achieved score 1.0
+2016-04-17 20:11:19,639 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.128) achieved score 1.0
+2016-04-17 20:11:19,703 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.256) achieved score 1.0
+2016-04-17 20:11:19,766 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.512) achieved score 1.0
+2016-04-17 20:11:19,817 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 1.024) achieved score 1.0
+2016-04-17 20:11:19,874 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 2.048) achieved score 1.0
+2016-04-17 20:11:19,929 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 4.096) achieved score 1.0
+2016-04-17 20:11:19,999 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 8.192) achieved score 0.9875
+2016-04-17 20:11:20,058 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 16.384) achieved score 1.0
+2016-04-17 20:11:20,123 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 32.768) achieved score 0.9875
+2016-04-17 20:11:20,198 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 65.536) achieved score 0.975
+2016-04-17 20:11:20,287 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.001) achieved score 1.0
+2016-04-17 20:11:20,351 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.002) achieved score 1.0
+2016-04-17 20:11:20,408 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.004) achieved score 1.0
+2016-04-17 20:11:20,462 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.008) achieved score 1.0
+2016-04-17 20:11:20,530 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.016) achieved score 1.0
+2016-04-17 20:11:20,584 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.032) achieved score 1.0
+2016-04-17 20:11:20,645 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.064) achieved score 1.0
+2016-04-17 20:11:20,703 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.128) achieved score 1.0
+2016-04-17 20:11:20,784 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.256) achieved score 1.0
+2016-04-17 20:11:20,842 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.512) achieved score 1.0
+2016-04-17 20:11:20,892 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 1.024) achieved score 0.9875
+2016-04-17 20:11:20,938 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 2.048) achieved score 1.0
+2016-04-17 20:11:21,000 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 4.096) achieved score 0.9875
+2016-04-17 20:11:21,045 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 8.192) achieved score 0.9875
+2016-04-17 20:11:21,090 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 16.384) achieved score 0.85
+2016-04-17 20:11:21,144 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 32.768) achieved score 0.7625
+2016-04-17 20:11:21,194 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 65.536) achieved score 0.9375
+2016-04-17 20:11:21,263 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.001) achieved score 1.0
+2016-04-17 20:11:21,323 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.002) achieved score 1.0
+2016-04-17 20:11:21,381 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.004) achieved score 1.0
+2016-04-17 20:11:21,440 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.008) achieved score 1.0
+2016-04-17 20:11:21,507 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.016) achieved score 1.0
+2016-04-17 20:11:21,561 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.032) achieved score 1.0
+2016-04-17 20:11:21,621 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.064) achieved score 1.0
+2016-04-17 20:11:21,700 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.128) achieved score 1.0
+2016-04-17 20:11:21,772 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.256) achieved score 1.0
+2016-04-17 20:11:21,813 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.512) achieved score 0.9875
+2016-04-17 20:11:21,851 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 1.024) achieved score 0.9875
+2016-04-17 20:11:21,887 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 2.048) achieved score 0.9875
+2016-04-17 20:11:21,923 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 4.096) achieved score 0.9875
+2016-04-17 20:11:21,961 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 8.192) achieved score 0.9875
+2016-04-17 20:11:22,021 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 16.384) achieved score 0.9875
+2016-04-17 20:11:22,060 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 32.768) achieved score 0.9875
+2016-04-17 20:11:22,105 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 65.536) achieved score 0.9875
+2016-04-17 20:11:22,184 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.001) achieved score 0.975
+2016-04-17 20:11:22,267 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.002) achieved score 0.975
+2016-04-17 20:11:22,322 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.004) achieved score 0.975
+2016-04-17 20:11:22,375 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.008) achieved score 0.975
+2016-04-17 20:11:22,435 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.016) achieved score 0.975
+2016-04-17 20:11:22,503 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.032) achieved score 0.975
+2016-04-17 20:11:22,560 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.064) achieved score 0.975
+2016-04-17 20:11:22,615 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.128) achieved score 0.975
+2016-04-17 20:11:22,666 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.256) achieved score 0.975
+2016-04-17 20:11:22,707 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.512) achieved score 0.975
+2016-04-17 20:11:22,770 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 1.024) achieved score 0.975
+2016-04-17 20:11:22,813 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 2.048) achieved score 0.975
+2016-04-17 20:11:22,857 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 4.096) achieved score 0.975
+2016-04-17 20:11:22,903 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 8.192) achieved score 0.975
+2016-04-17 20:11:22,959 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 16.384) achieved score 0.975
+2016-04-17 20:11:23,018 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 32.768) achieved score 0.975
+2016-04-17 20:11:23,071 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 65.536) achieved score 0.975
+2016-04-17 20:11:23,131 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.001) achieved score 0.9
+2016-04-17 20:11:23,189 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.002) achieved score 0.9
+2016-04-17 20:11:23,260 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.004) achieved score 0.9
+2016-04-17 20:11:23,319 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.008) achieved score 0.9
+2016-04-17 20:11:23,377 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.016) achieved score 0.9
+2016-04-17 20:11:23,440 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.032) achieved score 0.9
+2016-04-17 20:11:23,507 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.064) achieved score 0.9
+2016-04-17 20:11:23,562 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.128) achieved score 0.9
+2016-04-17 20:11:23,620 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.256) achieved score 0.9
+2016-04-17 20:11:23,682 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.512) achieved score 0.9
+2016-04-17 20:11:23,745 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 1.024) achieved score 0.9125
+2016-04-17 20:11:23,808 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 2.048) achieved score 0.9125
+2016-04-17 20:11:23,862 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 4.096) achieved score 0.9125
+2016-04-17 20:11:23,945 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 8.192) achieved score 0.9125
+2016-04-17 20:11:24,057 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 16.384) achieved score 0.9125
+2016-04-17 20:11:24,125 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 32.768) achieved score 0.9125
+2016-04-17 20:11:24,188 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 65.536) achieved score 0.9125
+2016-04-17 20:11:24,243 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.001) achieved score 0.725
+2016-04-17 20:11:24,299 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.002) achieved score 0.725
+2016-04-17 20:11:24,374 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.004) achieved score 0.725
+2016-04-17 20:11:24,440 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.008) achieved score 0.725
+2016-04-17 20:11:24,497 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.016) achieved score 0.725
+2016-04-17 20:11:24,550 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.032) achieved score 0.725
+2016-04-17 20:11:24,601 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.064) achieved score 0.725
+2016-04-17 20:11:24,650 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.128) achieved score 0.725
+2016-04-17 20:11:24,701 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.256) achieved score 0.725
+2016-04-17 20:11:24,765 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.512) achieved score 0.725
+2016-04-17 20:11:24,821 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 1.024) achieved score 0.725
+2016-04-17 20:11:24,873 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 2.048) achieved score 0.725
+2016-04-17 20:11:24,927 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 4.096) achieved score 0.725
+2016-04-17 20:11:25,004 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 8.192) achieved score 0.725
+2016-04-17 20:11:25,063 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 16.384) achieved score 0.725
+2016-04-17 20:11:25,131 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 32.768) achieved score 0.725
+2016-04-17 20:11:25,188 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 65.536) achieved score 0.725
+2016-04-17 20:11:25,250 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.001) achieved score 0.6
+2016-04-17 20:11:25,310 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.002) achieved score 0.6
+2016-04-17 20:11:25,366 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.004) achieved score 0.6
+2016-04-17 20:11:25,425 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.008) achieved score 0.6
+2016-04-17 20:11:25,499 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.016) achieved score 0.6
+2016-04-17 20:11:25,553 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.032) achieved score 0.6
+2016-04-17 20:11:25,606 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.064) achieved score 0.6
+2016-04-17 20:11:25,658 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.128) achieved score 0.6
+2016-04-17 20:11:25,708 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.256) achieved score 0.6
+2016-04-17 20:11:25,768 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.512) achieved score 0.6
+2016-04-17 20:11:25,836 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 1.024) achieved score 0.6
+2016-04-17 20:11:25,900 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 2.048) achieved score 0.6
+2016-04-17 20:11:25,954 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 4.096) achieved score 0.6
+2016-04-17 20:11:26,021 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 8.192) achieved score 0.6
+2016-04-17 20:11:26,078 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 16.384) achieved score 0.6
+2016-04-17 20:11:26,137 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 32.768) achieved score 0.6
+2016-04-17 20:11:26,198 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 65.536) achieved score 0.6
+2016-04-17 20:11:26,199 - INFO - Best model: (kernel: linear, kwargs: {}, 0.001) achieved score 1.0
+2016-04-17 20:11:26,220 - INFO - Best model achieved score 1.0 on test data
+2016-04-17 20:11:26,338 - INFO - Model: (kernel: linear, kwargs: {}, 0.001) achieved score 1.0
+2016-04-17 20:11:26,403 - INFO - Model: (kernel: linear, kwargs: {}, 0.002) achieved score 1.0
+2016-04-17 20:11:26,485 - INFO - Model: (kernel: linear, kwargs: {}, 0.004) achieved score 1.0
+2016-04-17 20:11:26,538 - INFO - Model: (kernel: linear, kwargs: {}, 0.008) achieved score 1.0
+2016-04-17 20:11:26,584 - INFO - Model: (kernel: linear, kwargs: {}, 0.016) achieved score 1.0
+2016-04-17 20:11:26,635 - INFO - Model: (kernel: linear, kwargs: {}, 0.032) achieved score 1.0
+2016-04-17 20:11:26,690 - INFO - Model: (kernel: linear, kwargs: {}, 0.064) achieved score 1.0
+2016-04-17 20:11:26,745 - INFO - Model: (kernel: linear, kwargs: {}, 0.128) achieved score 1.0
+2016-04-17 20:11:26,788 - INFO - Model: (kernel: linear, kwargs: {}, 0.256) achieved score 1.0
+2016-04-17 20:11:26,825 - INFO - Model: (kernel: linear, kwargs: {}, 0.512) achieved score 1.0
+2016-04-17 20:11:26,862 - INFO - Model: (kernel: linear, kwargs: {}, 1.024) achieved score 1.0
+2016-04-17 20:11:26,901 - INFO - Model: (kernel: linear, kwargs: {}, 2.048) achieved score 1.0
+2016-04-17 20:11:26,947 - INFO - Model: (kernel: linear, kwargs: {}, 4.096) achieved score 1.0
+2016-04-17 20:11:26,997 - INFO - Model: (kernel: linear, kwargs: {}, 8.192) achieved score 1.0
+2016-04-17 20:11:27,037 - INFO - Model: (kernel: linear, kwargs: {}, 16.384) achieved score 1.0
+2016-04-17 20:11:27,082 - INFO - Model: (kernel: linear, kwargs: {}, 32.768) achieved score 1.0
+2016-04-17 20:11:27,152 - INFO - Model: (kernel: linear, kwargs: {}, 65.536) achieved score 1.0
+2016-04-17 20:11:27,236 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.001) achieved score 1.0
+2016-04-17 20:11:27,312 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.002) achieved score 1.0
+2016-04-17 20:11:27,373 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.004) achieved score 1.0
+2016-04-17 20:11:27,431 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.008) achieved score 1.0
+2016-04-17 20:11:27,486 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.016) achieved score 1.0
+2016-04-17 20:11:27,545 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.032) achieved score 1.0
+2016-04-17 20:11:27,597 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.064) achieved score 1.0
+2016-04-17 20:11:27,654 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.128) achieved score 1.0
+2016-04-17 20:11:27,708 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.256) achieved score 1.0
+2016-04-17 20:11:27,762 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 0.512) achieved score 1.0
+2016-04-17 20:11:27,811 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 1.024) achieved score 1.0
+2016-04-17 20:11:27,864 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 2.048) achieved score 1.0
+2016-04-17 20:11:27,911 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 4.096) achieved score 1.0
+2016-04-17 20:11:27,960 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 8.192) achieved score 1.0
+2016-04-17 20:11:28,016 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 16.384) achieved score 1.0
+2016-04-17 20:11:28,074 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 32.768) achieved score 1.0
+2016-04-17 20:11:28,131 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.0001}, 65.536) achieved score 1.0
+2016-04-17 20:11:28,183 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.001) achieved score 1.0
+2016-04-17 20:11:28,237 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.002) achieved score 1.0
+2016-04-17 20:11:28,313 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.004) achieved score 1.0
+2016-04-17 20:11:28,372 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.008) achieved score 1.0
+2016-04-17 20:11:28,429 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.016) achieved score 1.0
+2016-04-17 20:11:28,500 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.032) achieved score 1.0
+2016-04-17 20:11:28,553 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.064) achieved score 1.0
+2016-04-17 20:11:28,604 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.128) achieved score 1.0
+2016-04-17 20:11:28,659 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.256) achieved score 1.0
+2016-04-17 20:11:28,718 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 0.512) achieved score 1.0
+2016-04-17 20:11:28,775 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 1.024) achieved score 1.0
+2016-04-17 20:11:28,834 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 2.048) achieved score 1.0
+2016-04-17 20:11:28,892 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 4.096) achieved score 1.0
+2016-04-17 20:11:28,961 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 8.192) achieved score 1.0
+2016-04-17 20:11:29,029 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 16.384) achieved score 1.0
+2016-04-17 20:11:29,099 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 32.768) achieved score 1.0
+2016-04-17 20:11:29,220 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.001}, 65.536) achieved score 1.0
+2016-04-17 20:11:29,285 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.001) achieved score 1.0
+2016-04-17 20:11:29,346 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.002) achieved score 1.0
+2016-04-17 20:11:29,399 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.004) achieved score 1.0
+2016-04-17 20:11:29,464 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.008) achieved score 1.0
+2016-04-17 20:11:29,518 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.016) achieved score 1.0
+2016-04-17 20:11:29,571 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.032) achieved score 1.0
+2016-04-17 20:11:29,625 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.064) achieved score 1.0
+2016-04-17 20:11:29,683 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.128) achieved score 1.0
+2016-04-17 20:11:29,742 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.256) achieved score 1.0
+2016-04-17 20:11:29,814 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 0.512) achieved score 1.0
+2016-04-17 20:11:29,865 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 1.024) achieved score 1.0
+2016-04-17 20:11:29,916 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 2.048) achieved score 1.0
+2016-04-17 20:11:29,975 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 4.096) achieved score 1.0
+2016-04-17 20:11:30,048 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 8.192) achieved score 1.0
+2016-04-17 20:11:30,097 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 16.384) achieved score 1.0
+2016-04-17 20:11:30,139 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 32.768) achieved score 1.0
+2016-04-17 20:11:30,193 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.01}, 65.536) achieved score 1.0
+2016-04-17 20:11:30,260 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.001) achieved score 1.0
+2016-04-17 20:11:30,325 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.002) achieved score 1.0
+2016-04-17 20:11:30,383 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.004) achieved score 1.0
+2016-04-17 20:11:30,439 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.008) achieved score 1.0
+2016-04-17 20:11:30,504 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.016) achieved score 1.0
+2016-04-17 20:11:30,561 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.032) achieved score 1.0
+2016-04-17 20:11:30,619 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.064) achieved score 1.0
+2016-04-17 20:11:30,678 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.128) achieved score 1.0
+2016-04-17 20:11:30,731 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.256) achieved score 1.0
+2016-04-17 20:11:30,786 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 0.512) achieved score 1.0
+2016-04-17 20:11:30,821 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 1.024) achieved score 1.0
+2016-04-17 20:11:30,867 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 2.048) achieved score 1.0
+2016-04-17 20:11:30,918 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 4.096) achieved score 1.0
+2016-04-17 20:11:30,967 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 8.192) achieved score 1.0
+2016-04-17 20:11:31,012 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 16.384) achieved score 1.0
+2016-04-17 20:11:31,061 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 32.768) achieved score 1.0
+2016-04-17 20:11:31,105 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 0.1}, 65.536) achieved score 1.0
+2016-04-17 20:11:31,165 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.001) achieved score 0.9875
+2016-04-17 20:11:31,221 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.002) achieved score 0.9875
+2016-04-17 20:11:31,295 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.004) achieved score 0.9875
+2016-04-17 20:11:31,349 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.008) achieved score 0.9875
+2016-04-17 20:11:31,407 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.016) achieved score 0.9875
+2016-04-17 20:11:31,463 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.032) achieved score 0.9875
+2016-04-17 20:11:31,520 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.064) achieved score 0.9875
+2016-04-17 20:11:31,577 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.128) achieved score 0.9875
+2016-04-17 20:11:31,626 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.256) achieved score 0.9875
+2016-04-17 20:11:31,673 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 0.512) achieved score 1.0
+2016-04-17 20:11:31,719 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 1.024) achieved score 0.9875
+2016-04-17 20:11:31,762 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 2.048) achieved score 1.0
+2016-04-17 20:11:31,809 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 4.096) achieved score 0.9875
+2016-04-17 20:11:31,855 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 8.192) achieved score 0.9875
+2016-04-17 20:11:31,904 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 16.384) achieved score 1.0
+2016-04-17 20:11:31,961 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 32.768) achieved score 0.9875
+2016-04-17 20:11:32,025 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1.0}, 65.536) achieved score 0.9875
+2016-04-17 20:11:32,081 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.001) achieved score 0.825
+2016-04-17 20:11:32,141 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.002) achieved score 0.825
+2016-04-17 20:11:32,200 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.004) achieved score 0.825
+2016-04-17 20:11:32,259 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.008) achieved score 0.825
+2016-04-17 20:11:32,317 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.016) achieved score 0.825
+2016-04-17 20:11:32,379 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.032) achieved score 0.825
+2016-04-17 20:11:32,432 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.064) achieved score 0.825
+2016-04-17 20:11:32,486 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.128) achieved score 0.825
+2016-04-17 20:11:32,570 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.256) achieved score 0.825
+2016-04-17 20:11:32,628 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 0.512) achieved score 0.8625
+2016-04-17 20:11:32,683 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 1.024) achieved score 0.8875
+2016-04-17 20:11:32,745 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 2.048) achieved score 0.8875
+2016-04-17 20:11:32,802 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 4.096) achieved score 0.8875
+2016-04-17 20:11:32,858 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 8.192) achieved score 0.8875
+2016-04-17 20:11:32,915 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 16.384) achieved score 0.8875
+2016-04-17 20:11:32,975 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 32.768) achieved score 0.8875
+2016-04-17 20:11:33,046 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 10.0}, 65.536) achieved score 0.8875
+2016-04-17 20:11:33,097 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.001) achieved score 0.7125
+2016-04-17 20:11:33,148 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.002) achieved score 0.7125
+2016-04-17 20:11:33,199 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.004) achieved score 0.7125
+2016-04-17 20:11:33,256 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.008) achieved score 0.7125
+2016-04-17 20:11:33,308 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.016) achieved score 0.7125
+2016-04-17 20:11:33,359 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.032) achieved score 0.7125
+2016-04-17 20:11:33,408 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.064) achieved score 0.7125
+2016-04-17 20:11:33,461 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.128) achieved score 0.7125
+2016-04-17 20:11:33,531 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.256) achieved score 0.7125
+2016-04-17 20:11:33,578 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 0.512) achieved score 0.7125
+2016-04-17 20:11:33,632 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 1.024) achieved score 0.7125
+2016-04-17 20:11:33,684 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 2.048) achieved score 0.7125
+2016-04-17 20:11:33,733 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 4.096) achieved score 0.7125
+2016-04-17 20:11:33,785 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 8.192) achieved score 0.7125
+2016-04-17 20:11:33,838 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 16.384) achieved score 0.7125
+2016-04-17 20:11:33,893 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 32.768) achieved score 0.7125
+2016-04-17 20:11:33,950 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 100.0}, 65.536) achieved score 0.7125
+2016-04-17 20:11:34,025 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.001) achieved score 0.5875
+2016-04-17 20:11:34,092 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.002) achieved score 0.5875
+2016-04-17 20:11:34,169 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.004) achieved score 0.6125
+2016-04-17 20:11:34,224 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.008) achieved score 0.6125
+2016-04-17 20:11:34,285 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.016) achieved score 0.6125
+2016-04-17 20:11:34,335 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.032) achieved score 0.6125
+2016-04-17 20:11:34,385 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.064) achieved score 0.6125
+2016-04-17 20:11:34,439 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.128) achieved score 0.6125
+2016-04-17 20:11:34,521 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.256) achieved score 0.6125
+2016-04-17 20:11:34,580 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 0.512) achieved score 0.6125
+2016-04-17 20:11:34,647 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 1.024) achieved score 0.6125
+2016-04-17 20:11:34,708 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 2.048) achieved score 0.6125
+2016-04-17 20:11:34,773 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 4.096) achieved score 0.6125
+2016-04-17 20:11:34,832 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 8.192) achieved score 0.6125
+2016-04-17 20:11:34,890 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 16.384) achieved score 0.6125
+2016-04-17 20:11:34,954 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 32.768) achieved score 0.6125
+2016-04-17 20:11:35,055 - INFO - Model: (kernel: gaussian, kwargs: {'gamma': 1000.0}, 65.536) achieved score 0.6125
+2016-04-17 20:11:35,060 - INFO - Best model: (kernel: linear, kwargs: {}, 0.001) achieved score 1.0
+2016-04-17 20:11:35,082 - INFO - Best model achieved score 1.0 on test data
+2016-04-17 20:11:35,085 - INFO - Test score: 1.0
